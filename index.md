@@ -1,8 +1,3 @@
----
-
-title: home
-
----
 ## welcome
 
 ![alt text](https://tdalberg.github.io/files/small_FotografJN6.jpg)
