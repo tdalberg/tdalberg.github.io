@@ -1,7 +1,7 @@
 ---
 layout: page
 title: writings
-permalink: /HAHAwritings/
+permalink: /writings/
 ---
 # writings
 
