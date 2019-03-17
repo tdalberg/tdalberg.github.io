@@ -1,3 +1,3 @@
 ## Welcome
 
-![alt text](https://tdalberg.github.io/files/Norge_2018_FotografJN6.jpg)
+![alt text](https://tdalberg.github.io/files/small_FotografJN6.jpg)
