@@ -11,7 +11,7 @@ permalink: /writings/
 [reviews](#reviews)  
 
 ## dissertation
-Tobias Dalberg: _Mot lärdomens topp: Svenska humanisters och samhällsvetares ursprung, utbildning och yrkesbana under 1900-talets första hälft_ [Reaching the Pinnacle of Scholarship: Social, Educational and Professional Trajectories in the Humanities and Social Sciences in Sweden during the First Half of the 20th century]. Uppsala: Acta Universitatis Upsaliensis, 2018, 313 p.  
+**Tobias Dalberg**: _Mot lärdomens topp: Svenska humanisters och samhällsvetares ursprung, utbildning och yrkesbana under 1900-talets första hälft_ [Reaching the Pinnacle of Scholarship: Social, Educational and Professional Trajectories in the Humanities and Social Sciences in Sweden during the First Half of the 20th century]. Uppsala: Acta Universitatis Upsaliensis, 2018, 313 p.  
 Download: [Abstract](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-346824) and [fulltext](http://uu.diva-portal.org/smash/get/diva2:1195252/FULLTEXT01.pdf)  
 Review (in Swedish) by opponent Per Wisselgren (Docent, Umeå University): [External link](http://ojs.ub.umu.se/index.php/njedh/article/view/144/83)
 
@@ -27,7 +27,7 @@ Ida Lidegran, Mikael Börjesson & **Tobias Dalberg**: "Uppkomsten av utbildninga
 Ylva Bergström & **Tobias Dalberg**: "Political Position-takings. The Case of Young Citizens in a Swedish Rural Mining District", _Praktiske Grunde_, No 4, 2012, p. 7-22.
 
 ## chapters
-Tobias Dalberg: "Structure and Change in the Field of mid-20th c. Human Scientists in Sweden", in Blasius, Jörg, Lebaron, Frédéric, Le Roux, Brigitte and Schmitz, Andreas (eds) _Empirical Investigation of the Social Space_. Springer International, 2018.
+**Tobias Dalberg**: "Structure and Change in the Field of mid-20th c. Human Scientists in Sweden", in Blasius, Jörg, Lebaron, Frédéric, Le Roux, Brigitte and Schmitz, Andreas (eds) _Empirical Investigation of the Social Space_. Springer International, 2019.
 
 **Tobias Dalberg**, Mikael Börjesson & Donald Broady: "A Reversed Order: Expansion and Differentiation of Social Sciences and Humanities in Sweden 1945–2015", in Fleck, Christian, Duller, Matthias & Karády, Victor (eds) _Shaping Human Science Disciplines. Institutional Developments in Europe and Beyond_.	Cham: Palgrave Macmillan, 2019, 396 p.
 
@@ -39,9 +39,9 @@ Ylva Bergström & **Tobias Dalberg**: "Education, Social Class and Politics: The
 
 ## reports
 
-Tobias Dalberg: _Publiceringar inom Fakulteten för utbildningsvetenskaper. En kartläggning av åren 2011–2017_. Dnr UTBVET 2018/943. Uppsala: Uppsala universitet, 2018, 50 p. [Fulltext](http://www.diva-portal.org/smash/get/diva2:1264687/FULLTEXT01.pdf)
+**Tobias Dalberg**: _Publiceringar inom Fakulteten för utbildningsvetenskaper. En kartläggning av åren 2011–2017_. Dnr UTBVET 2018/943. Uppsala: Uppsala universitet, 2018, 50 p. [Fulltext](http://www.diva-portal.org/smash/get/diva2:1264687/FULLTEXT01.pdf)
 
-Tobias Dalberg: _Engelskans utbredning i den svenska högskolan. En kartläggning av engelskspråkiga benämningar av program och kurser i svensk högre utbildning 1993–2009_. Rapporter från Forskningsgruppen för utbildnings- och kultursociologi 52. Uppsala: SEC, Uppsala universitet, 2013, 54 p. [Fulltext](www.skeptron.uu.se/broady/sec/sec-52.pdf)
+**Tobias Dalberg**: _Engelskans utbredning i den svenska högskolan. En kartläggning av engelskspråkiga benämningar av program och kurser i svensk högre utbildning 1993–2009_. Rapporter från Forskningsgruppen för utbildnings- och kultursociologi 52. Uppsala: SEC, Uppsala universitet, 2013, 54 p. [Fulltext](www.skeptron.uu.se/broady/sec/sec-52.pdf)
 
 Mikael Börjesson, Donald Broady, **Tobias Dalberg** & Josefine Krigh: _Utbildningsvetenskapens förankring i discipliner_. PM B001. Stockholm: Vetenskapsrådet, 2013, 41 p.
 
@@ -49,4 +49,4 @@ Donald Broady, Mikael Börjesson, **Tobias Dalberg**, Josefine Krigh & Ida Lideg
 
 ## reviews
 
-Tobias Dalberg: "En aktion mot passivformer - Michael Billig om samhällsvetenskaplig prosa", review of Michael Billig's (2013) _Learn to Write Badly. How to Succeed in the Social Sciences_, _Praktiske Grunde_, No 3-4, 2014, p. 71-74.
+**Tobias Dalberg**: "En aktion mot passivformer - Michael Billig om samhällsvetenskaplig prosa", review of Michael Billig's (2013) _Learn to Write Badly. How to Succeed in the Social Sciences_, _Praktiske Grunde_, No 3-4, 2014, p. 71-74.
