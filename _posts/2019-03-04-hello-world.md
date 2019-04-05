@@ -9,7 +9,7 @@ tags: [learning, publishing]
 The obligatory "Hello world!" post.
 
 <small>
-    {% for tag in page.tags %}
+    for tag in page.tags
     <a href="/tags/{{ tag }}/">{{ tag }}</a>
-    {% endfor %}
+    endfor
 </small>
