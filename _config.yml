@@ -1,3 +1,23 @@
 title: tobias dalberg
 github_username: tdalberg
 theme: minima
+
+collections:
+  tags:
+    output: true
+    permalink: /tags/:name/ # optional
+  categories:
+    output: true
+    permalink: /:name/ # optional
+
+defaults:
+- scope:
+    path: ''
+    type: tags
+  values:
+    layout: tag
+- scope:
+    path: ''
+    type: categories
+  values:
+    layout: category
