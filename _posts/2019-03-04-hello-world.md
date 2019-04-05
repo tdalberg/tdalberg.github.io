@@ -11,7 +11,5 @@ The obligatory "Hello world!" post.
 
 
 
-{% for tag in page.tags %}
-<a href="/tags/{{ tag }}/">{{ tag }}</a>
-{% endfor %}
+{% for tag in page.tags %} <a href="/tags/{{ tag }}/">{{ tag }}</a> {% endfor %}
 
