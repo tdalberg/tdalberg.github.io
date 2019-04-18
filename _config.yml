@@ -10,6 +10,9 @@ header_pages:
  - cv.md
  - writings.md
 
+# SEO
+google_site_verification : "rNVpT0EGDErzM_rNLzSVl2yFWvL04B4lRHQ7wlMNpQU"
+
 plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
