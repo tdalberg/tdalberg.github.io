@@ -2,7 +2,7 @@
 layout: post  
 title: "En lösning för skolmarknaden"  
 date: 2019-03-18 13:45:00 -0900  
-tags: [policy, svensk utbildning]  
+tags: [policy, utbildning]  
 
 ---
 
