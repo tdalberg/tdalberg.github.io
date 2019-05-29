@@ -11,3 +11,9 @@ Den svenska skolmarknaden har vissa bekymmer. Å ena sidan vill elever och famil
 År 1998 inrättade man i delstaten Texas en regel som sa att alla elever som befann sig i den högsta decentilen (topp 10%) på sin gymnasieskola skulle garanteras antagning på vilken offentlig högre utbildningsinstitution som helst inom delstaten ([extern länk](https://www.nber.org/papers/w16663)). Målet med regeln var att tillbakasatta studenter och studenter med minoritetsbakgrund skulle få större chans att påbörja högre studier. Resultatet tycks dock ha blivit att vissa av de starkare eleverna såg en möjlighet att utnyttja denna regel till egen fördel genom att byta till skolor där eleverna överlag presterade sämre, för att på så sätt förbättra sin relativa ställning.
 
 Om det nu vore bättre för alla elever att starkare elever går på samma skolor som svagare elever finns det två enkla lösningar. Den ena är att slopa det fria valet av skola, och låta en planeringsavdelning placera elever utefter något mått som bidrar till heterogena elevsammansättningar. Eftersom jag i min utgångspunkt accepterat att det folkliga stödet för valfriheten dominerar betraktar jag denna lösning som politiskt omöjlig att lansera - trots att den kanske kunde generera ett önskvärt resultat. Den andra lösningen är att införa ett system liknande det i Texas, som garanterar elever som är bäst på sina skolor antagning till en valfri högre utbildningsinstitution. Låt de starkaste (och näst starkaste) eleverna vara hyperstrategiska i sin skolgång, så kanske de rent av drar med sig de svagare eleverna.
+
+
+
+
+
+{% for tag in page.tags %} <a href="/tags/{{ tag }}/">{{ tag }}</a> {% endfor %}
