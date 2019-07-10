@@ -11,7 +11,10 @@ This is the place where Tobias Dalberg shares information about his work. He cur
 - Finishing a report on rater agreement in the assessments of student texts written within the framework of the national test in Swedish.
 - Analysing the usage of freestanding courses in Swedish higher education.
 
-<p>
+
+<div style="width: 100%; display: table;">
+    <div style="display: table-row">
+        <div style="width: 600px; display: table-cell;"> <p>
     {% for tag in site.tags %}
     <!-- Here's a hack to generate a "tag cloud" where the size of
     the word is directly proportional to the number of posts with
@@ -21,9 +24,11 @@ This is the place where Tobias Dalberg shares information about his work. He cur
         {{ tag[0] }} | 
     </a>
     {% endfor %}
-</p>
-
-<script async src="https://cse.google.com/cse.js?cx=018083339573084129855:aqzq48shiey"></script>
-<div align="right">
-<div class="gcse-search"></div>
+</p> </div>
+        <div style="display: table-cell;"> <script async src="https://cse.google.com/cse.js?cx=018083339573084129855:aqzq48shiey"></script>
+<div class="gcse-search"></div> </div>
+    </div>
 </div>
+
+
+
