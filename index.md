@@ -14,7 +14,7 @@ This is the place where Tobias Dalberg shares information about his work. He cur
 
 <div style="width: 100%; display: table;">
     <div style="display: table-row">
-        <div style="width: 50%; display: table-cell;"> <p>
+        <div style="width: 30%; display: table-cell;"> <p>
     {% for tag in site.tags %}
     <!-- Here's a hack to generate a "tag cloud" where the size of
     the word is directly proportional to the number of posts with
@@ -30,5 +30,6 @@ This is the place where Tobias Dalberg shares information about his work. He cur
     </div>
 </div>
 
-
+% To do-list:
+% Make search box transparent.
 
