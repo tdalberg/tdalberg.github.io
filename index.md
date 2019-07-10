@@ -30,6 +30,5 @@ This is the place where Tobias Dalberg shares information about his work. He cur
     </div>
 </div>
 
-% To do-list:
-% Make search box transparent.
+
 
