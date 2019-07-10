@@ -22,3 +22,6 @@ This is the place where Tobias Dalberg shares information about his work. He cur
     </a>
     {% endfor %}
 </p>
+
+<script async src="https://cse.google.com/cse.js?cx=018083339573084129855:aqzq48shiey"></script>
+<div class="gcse-search"></div>
