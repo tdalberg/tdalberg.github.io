@@ -40,6 +40,8 @@ Ylva Bergström & **Tobias Dalberg**: "Education, Social Class and Politics: The
 
 ## reports
 
+**Tobias Dalberg**: _Samstämmighet i skrivbedömning. Statistisk analys av bedömningar av två nationella skrivprov_. Svenska i utveckling 36. Uppsala: Uppsala universitet, 2019.
+
 **Tobias Dalberg**: _Publiceringar inom Fakulteten för utbildningsvetenskaper. En kartläggning av åren 2011–2017_. Dnr UTBVET 2018/943. Uppsala: Uppsala universitet, 2018, 50 p. [Fulltext](http://www.diva-portal.org/smash/get/diva2:1264687/FULLTEXT01.pdf)
 
 **Tobias Dalberg**: _Engelskans utbredning i den svenska högskolan. En kartläggning av engelskspråkiga benämningar av program och kurser i svensk högre utbildning 1993–2009_. Rapporter från Forskningsgruppen för utbildnings- och kultursociologi 52. Uppsala: SEC, Uppsala universitet, 2013, 54 p. [Fulltext](www.skeptron.uu.se/broady/sec/sec-52.pdf)
