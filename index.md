@@ -2,6 +2,8 @@
 title: welcome  
 ---
 
+**new:** Published a report on rater agreement in the assessments of student texts written within the framework of the national test in Swedish. See [writings](https://tdalberg.github.io/writings/) or [fulltext](https://www.natprov.nordiska.uu.se/digitalAssets/557/c_557840-l_3-k_sviu36fulltext.pdf) (in Swedish).
+
 ![alt text](https://tdalberg.github.io/files/small_FotografJN6.jpg)
 
 This is the place where Tobias Dalberg shares information about his work. He currently spends his time:
