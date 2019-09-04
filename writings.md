@@ -40,7 +40,7 @@ Ylva Bergström & **Tobias Dalberg**: "Education, Social Class and Politics: The
 
 ## reports
 
-**Tobias Dalberg**: _Samstämmighet i skrivbedömning. Statistisk analys av bedömningar av två nationella skrivprov_. Svenska i utveckling 36. Uppsala: Uppsala universitet, 2019.
+**Tobias Dalberg**: _Samstämmighet i skrivbedömning. Statistisk analys vid bedömning av två nationella skrivprov_. Svenska i utveckling 36. Uppsala: Uppsala universitet, 2019, 49 p. [Fulltext](https://www.natprov.nordiska.uu.se/digitalAssets/557/c_557840-l_3-k_sviu36fulltext.pdf)
 
 **Tobias Dalberg**: _Publiceringar inom Fakulteten för utbildningsvetenskaper. En kartläggning av åren 2011–2017_. Dnr UTBVET 2018/943. Uppsala: Uppsala universitet, 2018, 50 p. [Fulltext](http://www.diva-portal.org/smash/get/diva2:1264687/FULLTEXT01.pdf)
 
