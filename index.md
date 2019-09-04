@@ -12,10 +12,6 @@ This is the place where Tobias Dalberg shares information about his work. He cur
 - Writing a chapter about the extramural activities of scholars in humanities and social sciences in Sweden ca 1900&ndash;1950 for an edited volume in Swedish.
 - Analysing the usage of freestanding courses in Swedish higher education.
 
-<div class="row">
-  <div class="column"><img src="files/small_FotografJN6.jpg"></div>
-  <div class="column">**new:** Published a report on rater agreement in the assessments of student texts written within the framework of the national test in Swedish. See [writings](https://tdalberg.github.io/writings/#reports) or download [fulltext](https://www.natprov.nordiska.uu.se/digitalAssets/557/c_557840-l_3-k_sviu36fulltext.pdf) (in Swedish).</div>
-</div>
 
 <div style="width: 100%; display: table;">
     <div style="display: table-row">
@@ -34,6 +30,4 @@ This is the place where Tobias Dalberg shares information about his work. He cur
 <div class="gcse-search"></div> </div>
     </div>
 </div>
-
-
 
