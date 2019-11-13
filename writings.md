@@ -40,9 +40,9 @@ Ylva Bergström & **Tobias Dalberg**: "Education, Social Class and Politics: The
 
 ## reports
 
-**Tobias Dalberg**: _Studiegångar vid Uppsala universitet. En analys av de fristående kursernas omfattning och relation till kvarvaro, examensfrekvens och övergångar till forskarutbildning_. Uppsala: Uppsala universitet, 2019, 27 p.
+**Tobias Dalberg**: _Studiegångar vid Uppsala universitet. En analys av de fristående kursernas omfattning och relation till kvarvaro, examensfrekvens och övergångar till forskarutbildning_. Rapporter från Forskningsgruppen för utbildnings- och kultursociologi 60. Uppsala: SEC, Uppsala universitet, 2019, 27 p. [Fulltext](http://www.skeptron.uu.se/broady/sec/sec-60.pdf)
 
-Mikael Börjesson, **Tobias Dalberg** & Ola Agevall: _Högre utbildning som bildningsväg eller inträdesbiljett till arbetsmarknaden. Program och fristående kurs i svensk högre utbildning och vid Uppsala universitet, 1993–2016_. Uppsala: Uppsala universitet, 2019, 47 p.
+Mikael Börjesson, **Tobias Dalberg** & Ola Agevall: _Högre utbildning som bildningsväg eller inträdesbiljett till arbetsmarknaden. Program och fristående kurs i svensk högre utbildning och vid Uppsala universitet, 1993–2016_. Rapporter från Forskningsgruppen för utbildnings- och kultursociologi 59. Uppsala: SEC, Uppsala universitet, 2019, 47 p. [Fulltext](http://www.skeptron.uu.se/broady/sec/sec-59.pdf)
 
 **Tobias Dalberg**: _Samstämmighet i skrivbedömning. Statistisk analys vid bedömning av två nationella skrivprov_. Svenska i utveckling 36. Uppsala: Uppsala universitet, 2019, 49 p. [Fulltext](https://www.natprov.nordiska.uu.se/digitalAssets/557/c_557840-l_3-k_sviu36fulltext.pdf)
 
