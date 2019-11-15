@@ -50,9 +50,9 @@ Mikael Börjesson, **Tobias Dalberg** & Ola Agevall: _Högre utbildning som bild
 
 **Tobias Dalberg**: _Engelskans utbredning i den svenska högskolan. En kartläggning av engelskspråkiga benämningar av program och kurser i svensk högre utbildning 1993–2009_. Rapporter från Forskningsgruppen för utbildnings- och kultursociologi 52. Uppsala: SEC, Uppsala universitet, 2013, 54 p. [Fulltext](www.skeptron.uu.se/broady/sec/sec-52.pdf)
 
-Mikael Börjesson, Donald Broady, **Tobias Dalberg** & Josefine Krigh: _Utbildningsvetenskapens förankring i discipliner_. PM B001. Stockholm: Vetenskapsrådet, 2013, 41 p.
+Mikael Börjesson, Donald Broady, **Tobias Dalberg** & Josefine Krigh: _Utbildningsvetenskapens förankring i discipliner_. PM B001. Stockholm: Vetenskapsrådet, 2013, 41 p. [Fulltext](https://www.vr.se/download/18.2412c5311624176023d25bf1/1529480529039/Utbildningsvet-foerankring-i-discipliner_VR_2013.pdf)
 
-Donald Broady, Mikael Börjesson, **Tobias Dalberg**, Josefine Krigh & Ida Lidegran: _Inventering av svensk utbildningsvetenskaplig forskning_. Vetenskapsrådets rapportserie 2011:2. Stockholm: Vetenskapsrådet, 2011, 94 p.
+Donald Broady, Mikael Börjesson, **Tobias Dalberg**, Josefine Krigh & Ida Lidegran: _Inventering av svensk utbildningsvetenskaplig forskning_. Vetenskapsrådets rapportserie 2011:2. Stockholm: Vetenskapsrådet, 2011, 94 p. [Fulltext](https://www.vr.se/download/18.2412c5311624176023d25b22/1529480532262/Inventering-sv-utbildningsvetenskaplig-forskn_VR_2011.pdf)
 
 ## reviews
 
