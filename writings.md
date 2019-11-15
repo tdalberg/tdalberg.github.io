@@ -5,8 +5,11 @@ permalink: /writings/
 ---
 
 ---
+
 ![alt text](https://tdalberg.github.io/files/avhcover.jpg)
+
 ---
+
 
 [dissertation](#dissertation)  
 [articles](#articles)  
