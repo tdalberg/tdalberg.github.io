@@ -18,9 +18,11 @@ permalink: /presentations/
 
 **Tobias Dalberg**: "Changes in access to higher education in the Nordic countries 1985-2010 – a comparative perspective". Paper presented at the session 'Inequalities in Higher Education', Nordic Fields of Higher Education in International Comparison, Sciences Po, April 12-13, 2018.
 
-**Tobias Dalberg**: "Transnational academic travels of mid-20th century professors in Sweden", Paper presented at the workshop 'Transnational Cultural exchange and Globalization', Uppsala universitet, January 22, 2018.
+**Tobias Dalberg**: "Transnational academic travels of mid-20th century professors in Sweden", Paper presented at the workshop 'Transnational Cultural exchange and Globalization', Uppsala University, January 22, 2018.
 
 ## 2017
+
+**Tobias**: "Reaching the pinnacle of scholarship: Career trajectories in humanities and social science". Paper presented at the workshop 'Higher Education as a Research Object – Organization and Recruitment', Uppsala University, September 5, 2017.
 
 Mikael Börjesson, Donald Broady & **Tobias Dalberg**: "A Reversed Order. Expansion and Differentiation of Social Sciences and Humanities in Sweden 1945–2015". Invited presentation at the INTERCO-SSH Final Conference, EHESS, Paris, February 23-25, 2017.
 
@@ -28,13 +30,13 @@ Mikael Börjesson, Donald Broady & **Tobias Dalberg**: "A Reversed Order. Expans
 
 **Tobias Dalberg** & Mikael Börjesson: "Structure and change in the field of mid-20th c. human scientists in Sweden". Paper presented at the session 'Patterns of institutionalization process in the social sciences in Europe', 41st Annual Meeting of the Social Science History Association, Chicago, November 17-20, 2016.
 
-**Tobias Dalberg**: "Structure and change in the field of mid-20th c. human scientists in Sweden". Paper presented at the session 'Elite Higher Education and Educational Strategies', Nordic Fields of Higher Education – Organisation, Expansion and Recruitment, Uppsala universitet, September 28-29, 2016.
+**Tobias Dalberg**: "Structure and change in the field of mid-20th c. human scientists in Sweden". Paper presented at the session 'Elite Higher Education and Educational Strategies', Nordic Fields of Higher Education – Organisation, Expansion and Recruitment, Uppsala University, September 28-29, 2016.
 
 **Tobias Dalberg**: "Swedish mid-20th century human scientists. Their social origin, academic positions and relations to the fields of power". Invited presentation at the colloquium 'Habitus-Field Theory, its Methodology and Application for the Explanation of Inequalities', Otto-Friedrich-Universität Bamberg, June 14-15, 2016.
 
-Emil Bertilsson & **Tobias Dalberg**: "Changes in access to higher education in the Nordic countries 1985-2010 – a comparative perspective". Paper presented at the session 'Utbildningssociologi', Sociologidagarna 2016, Uppsala universitet, Mars 10-12, 2016.
+Emil Bertilsson & **Tobias Dalberg**: "Changes in access to higher education in the Nordic countries 1985-2010 – a comparative perspective". Paper presented at the session 'Utbildningssociologi', Sociologidagarna 2016, Uppsala University, Mars 10-12, 2016.
 
-Mikael Börjesson, **Tobias Dalberg** & Emil Bertilsson: "Det svenska högskolefältet. Struktur och förändringar, 1977 till 2009". Paper presented at the session 'Utbildningssociologi', Sociologidagarna 2016, Uppsala universitet, Mars 10-12, 2016.
+Mikael Börjesson, **Tobias Dalberg** & Emil Bertilsson: "Det svenska högskolefältet. Struktur och förändringar, 1977 till 2009". Paper presented at the session 'Utbildningssociologi', Sociologidagarna 2016, Uppsala University, Mars 10-12, 2016.
 
 ## 2015
 
@@ -44,7 +46,7 @@ Mikael Börjesson, **Tobias Dalberg** & Emil Bertilsson: "Det svenska högskolef
 
 Jens-Peter Thomsen, Emil Bertilsson, **Tobias Dalberg**, Juha Hedman & Håvard Helland: "Changes in access to higher education in the Nordic countries 1985-2010 – a comparative perspective". Paper presented at the session 'RN10S02 - Higher Education and Inequalities I', ESA 12th Conference: Differences, Inequalities and Sociological Imagination, Prague, August 25-28, 2015.
 
-**Tobias Dalberg**: "Akademiska karriärer inom de svenska humanvetenskaperna ca 1945–1965". Paper presented at the 'Etablerade och nykomlingar bland universitetsämnen: Utbildningssociologiska och historiska perspektiv' session at the Sjätte nordiska utbildningshistoriska konferensen, Uppsala universitet, August 20-21, 2015.
+**Tobias Dalberg**: "Akademiska karriärer inom de svenska humanvetenskaperna ca 1945–1965". Paper presented at the 'Etablerade och nykomlingar bland universitetsämnen: Utbildningssociologiska och historiska perspektiv' session at the Sjätte nordiska utbildningshistoriska konferensen, Uppsala University, August 20-21, 2015.
 
 **Tobias Dalberg**: "Transnational academic travels of mid-20th century professors in Sweden. Destinations and connections to the national academic field of human sciences". Paper presented at the 'Power, Cosmopolitanism, and the Transformation of European Elites' network meeting 3, Trinity College Dublin, June 8-9, 2015.
 
