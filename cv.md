@@ -14,7 +14,7 @@ permalink: /cv/
 
 2018-2020 Postdoctoral scholar, Graduate School of Education, Stanford University.  
 2018–2018 Researcher, Department of Education, Uppsala University.  
-2018–xxxx Statistician (on leave), Department of Scandinavian Languages, Uppsala University.  
+2018–2019 Statistician, Department of Scandinavian Languages, Uppsala University.  
 2012–2018 Doctoral student, Department of Education, Uppsala University.  
 2010–2018 Research Assistant, Department of Education, Uppsala University.  
 2010–2018 Research Assistant, Department of Scandinavian Languages, Uppsala University.  
