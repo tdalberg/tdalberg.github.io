@@ -22,7 +22,7 @@ permalink: /presentations/
 
 ## 2017
 
-**Tobias**: "Reaching the pinnacle of scholarship: Career trajectories in humanities and social science". Paper presented at the workshop 'Higher Education as a Research Object – Organization and Recruitment', Uppsala University, September 5, 2017.
+**Tobias Dalberg**: "Reaching the pinnacle of scholarship: Career trajectories in humanities and social science". Paper presented at the workshop 'Higher Education as a Research Object – Organization and Recruitment', Uppsala University, September 5, 2017.
 
 Mikael Börjesson, Donald Broady & **Tobias Dalberg**: "A Reversed Order. Expansion and Differentiation of Social Sciences and Humanities in Sweden 1945–2015". Invited presentation at the INTERCO-SSH Final Conference, EHESS, Paris, February 23-25, 2017.
 
