@@ -4,7 +4,7 @@ title: welcome
 
 ---
 
-<sup>:new:</sup> Published a report on rater agreement in the assessments of student texts written within the framework of the national test in Swedish. See [writings](https://tdalberg.github.io/writings/#reports) or download [fulltext](https://www.natprov.nordiska.uu.se/digitalAssets/557/c_557840-l_3-k_sviu36fulltext.pdf) (in Swedish).
+<sup>:new:</sup> Published a chapter analysing stability and change in the social structure of the field of mid-twentieth century human scientists in Sweden. See [chapters](https://tdalberg.github.io/writings/#chapters) or download [external fulltext](https://doi.org/10.1007/978-3-030-15387-8_17).
 
 ---
 
@@ -13,7 +13,9 @@ title: welcome
 This is the place where Tobias Dalberg shares information about his work. He currently spends his time:
 
 - Exploring and evaluating the utility of techniques from graph theory, natural language processing and geometric data analysis for analysing pathways in higher education.
+- Developing a methodology for analysing social change such as structural and relative social mobility and shifts in occupational status.
 - Writing a chapter about the extramural activities of scholars in humanities and social sciences in Sweden ca 1900&ndash;1950 for an edited volume in Swedish.
+- Finishing a report on rater agreement in the assessments of test items within the framework of the national test in Swedish.
 - Analysing the usage of freestanding courses in Swedish higher education.
 
 
