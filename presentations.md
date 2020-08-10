@@ -4,6 +4,10 @@ title: presentations
 permalink: /presentations/
 ---
 
+## 2020
+
+**Tobias Dalberg**, Kalena E. Cortes, Mitchell L. Stevens: "Gender and the Evolution of Major Choice among US Undergraduates" at the session ‘Tracking, Curricular Structure, and Inequality’, 115th ASA Annual Meeting, Virtual Engagement Event, August 10, 2020.
+
 ## 2019
 
 **Tobias Dalberg**: "Career Strategies in a Barren Academic Market Place: The Case of Humanities and Social Sciences in Sweden 1915–1955". Paper presented at the session 'Education, Discrimination and Social Stratification', 44th Annual Meeting of the Social Science History Association, Chicago, November 21-24, 2019.
