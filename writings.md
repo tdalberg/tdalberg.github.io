@@ -6,7 +6,7 @@ permalink: /writings/
 
 ---
 
-![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png "_Dictionnaire International Bourdieu_") ![alt text](https://tdalberg.github.io/files/EmpInv.jpg) ![alt text](https://tdalberg.github.io/files/SviU36.JPG) ![alt text](https://tdalberg.github.io/files/shapinghumsci.jpg) ![alt text](https://tdalberg.github.io/files/avhcover.jpg) ![alt text](https://tdalberg.github.io/files/eursoj_33_1cover.png) 
+![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png "Dictionnaire international Bourdieu") ![alt text](https://tdalberg.github.io/files/EmpInv.jpg "Empirical Investigation of the Social Space") ![alt text](https://tdalberg.github.io/files/SviU36.JPG "Samstämmighet i skrivbedömning") ![alt text](https://tdalberg.github.io/files/shapinghumsci.jpg "Shaping Human Science Disciplines") ![alt text](https://tdalberg.github.io/files/avhcover.jpg "Reaching the Pinnacle of Scholarship") ![alt text](https://tdalberg.github.io/files/eursoj_33_1cover.png "Higher education participation in the Nordic countries 1985-2010 – a comparative perspective") 
 
 ---
 
@@ -36,7 +36,7 @@ Ylva Bergström & **Tobias Dalberg**: "Political Position-takings. The Case of Y
 ## chapters
 **Tobias Dalberg**: "Ett elfenbenstorn i samhällets tjänst? Humanisters och samhällsvetares uppdrag och yrkesbanor under 1900-talets första hälft", in a volume edited by Linus Salö, published by Dialogos Förlag (forthcoming 2020/2021).
 
-**Tobias Dalberg**: "Structure and Change in the Field of Mid-Twentieth Century Human Scientists in Sweden", in Blasius, Jörg, Lebaron, Frédéric, Le Roux, Brigitte and Schmitz, Andreas (eds) _Empirical Investigations of Social Space_. Methodos Series (Methodological Prospects in the Social Sciences), vol 15. Cham: Springer, 2019.
+**Tobias Dalberg**: "Structure and Change in the Field of Mid-Twentieth Century Human Scientists in Sweden", in Blasius, Jörg, Lebaron, Frédéric, Le Roux, Brigitte and Schmitz, Andreas (eds) _Empirical Investigation of the Social Space_. Methodos Series (Methodological Prospects in the Social Sciences), vol 15. Cham: Springer, 2019.
 
 **Tobias Dalberg**, Mikael Börjesson & Donald Broady: "A Reversed Order: Expansion and Differentiation of Social Sciences and Humanities in Sweden 1945–2015", in Fleck, Christian, Duller, Matthias & Karády, Victor (eds) _Shaping Human Science Disciplines. Institutional Developments in Europe and Beyond_.	Cham: Palgrave Macmillan, 2019, 396 p.  
 Review (in German) of the edited volume: [External link](https://doi.org/10.1007/s11577-019-00589-8)  
