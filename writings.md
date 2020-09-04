@@ -6,7 +6,7 @@ permalink: /writings/
 
 ---
 
-![alt text](https://tdalberg.github.io/files/EmpInv.jpg) ![alt text](https://tdalberg.github.io/files/SviU36.JPG) ![alt text](https://tdalberg.github.io/files/shapinghumsci.jpg) ![alt text](https://tdalberg.github.io/files/avhcover.jpg) ![alt text](https://tdalberg.github.io/files/eursoj_33_1cover.png) 
+![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png) ![alt text](https://tdalberg.github.io/files/EmpInv.jpg) ![alt text](https://tdalberg.github.io/files/SviU36.JPG) ![alt text](https://tdalberg.github.io/files/shapinghumsci.jpg) ![alt text](https://tdalberg.github.io/files/avhcover.jpg) ![alt text](https://tdalberg.github.io/files/eursoj_33_1cover.png) 
 
 ---
 
@@ -34,6 +34,8 @@ Ida Lidegran, Mikael Börjesson & **Tobias Dalberg**: "Uppkomsten av utbildninga
 Ylva Bergström & **Tobias Dalberg**: "Political Position-takings. The Case of Young Citizens in a Swedish Rural Mining District", _Praktiske Grunde_, No 4, 2012, p. 7-22.
 
 ## chapters
+**Tobias Dalberg**: "Ett elfenbenstorn i samhällets tjänst? Humanisters och samhällsvetares uppdrag och yrkesbanor under 1900-talets första hälft", in a volume edited by Linus Salö, published by Dialogos Förlag (forthcoming 2020/2021).
+
 **Tobias Dalberg**: "Structure and Change in the Field of Mid-Twentieth Century Human Scientists in Sweden", in Blasius, Jörg, Lebaron, Frédéric, Le Roux, Brigitte and Schmitz, Andreas (eds) _Empirical Investigations of Social Space_. Methodos Series (Methodological Prospects in the Social Sciences), vol 15. Cham: Springer, 2019.
 
 **Tobias Dalberg**, Mikael Börjesson & Donald Broady: "A Reversed Order: Expansion and Differentiation of Social Sciences and Humanities in Sweden 1945–2015", in Fleck, Christian, Duller, Matthias & Karády, Victor (eds) _Shaping Human Science Disciplines. Institutional Developments in Europe and Beyond_.	Cham: Palgrave Macmillan, 2019, 396 p.  
