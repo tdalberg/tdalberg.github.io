@@ -6,7 +6,7 @@ permalink: /writings/
 
 ---
 
-![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png) ![alt text](https://tdalberg.github.io/files/EmpInv.jpg) ![alt text](https://tdalberg.github.io/files/SviU36.JPG) ![alt text](https://tdalberg.github.io/files/shapinghumsci.jpg) ![alt text](https://tdalberg.github.io/files/avhcover.jpg) ![alt text](https://tdalberg.github.io/files/eursoj_33_1cover.png) 
+![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png "_Dictionnaire International Bourdieu_") ![alt text](https://tdalberg.github.io/files/EmpInv.jpg) ![alt text](https://tdalberg.github.io/files/SviU36.JPG) ![alt text](https://tdalberg.github.io/files/shapinghumsci.jpg) ![alt text](https://tdalberg.github.io/files/avhcover.jpg) ![alt text](https://tdalberg.github.io/files/eursoj_33_1cover.png) 
 
 ---
 
