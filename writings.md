@@ -34,11 +34,13 @@ Ida Lidegran, Mikael Börjesson & **Tobias Dalberg**: "Uppkomsten av utbildninga
 Ylva Bergström & **Tobias Dalberg**: "Political Position-takings. The Case of Young Citizens in a Swedish Rural Mining District", _Praktiske Grunde_, No 4, 2012, p. 7-22.
 
 ## chapters
+Mikael Börjesson & **Tobias Dalberg**: "Suède", in Sapiro, Gisèle (ed) *Dictionnaire international Bourdieu*. Paris: CNRS Éditions (forthcoming October 2020).
+
 **Tobias Dalberg**: "Ett elfenbenstorn i samhällets tjänst? Humanisters och samhällsvetares uppdrag och yrkesbanor under 1900-talets första hälft", in a volume edited by Linus Salö, published by Dialogos Förlag (forthcoming 2020/2021).
 
 **Tobias Dalberg**: "Structure and Change in the Field of Mid-Twentieth Century Human Scientists in Sweden", in Blasius, Jörg, Lebaron, Frédéric, Le Roux, Brigitte and Schmitz, Andreas (eds) _Empirical Investigation of the Social Space_. Methodos Series (Methodological Prospects in the Social Sciences), vol 15. Cham: Springer, 2019.
 
-**Tobias Dalberg**, Mikael Börjesson & Donald Broady: "A Reversed Order: Expansion and Differentiation of Social Sciences and Humanities in Sweden 1945–2015", in Fleck, Christian, Duller, Matthias & Karády, Victor (eds) _Shaping Human Science Disciplines. Institutional Developments in Europe and Beyond_.	Cham: Palgrave Macmillan, 2019, 396 p.  
+**Tobias Dalberg**, Mikael Börjesson & Donald Broady: "A Reversed Order: Expansion and Differentiation of Social Sciences and Humanities in Sweden 1945–2015", in Fleck, Christian, Duller, Matthias & Karády, Victor (eds) _Shaping Human Science Disciplines. Institutional Developments in Europe and Beyond_. Cham: Palgrave Macmillan, 2019, 396 p.  
 Review (in German) of the edited volume: [External link](https://doi.org/10.1007/s11577-019-00589-8)  
 
 Mikael Börjesson, Donald Broady, **Tobias Dalberg** & Ida Lidegran: "Elite Education in Sweden — A Contradiction in Terms?", in Maxwell, CLaire & Aggleton, Peter (eds) _Elite Education – international perspectives_. London: Routledge, 2015, 202 p.
