@@ -2,6 +2,16 @@
 layout: page
 title: presentations
 permalink: /presentations/
+
+mapping:
+	locations:
+		- title: foo
+		  latitude: 10
+		  longitude: 10
+		- title: bar
+		  link: /some/awesome/path
+		  latitude: -10
+		  longitude: -10
 ---
 
 ## 2020
@@ -81,3 +91,6 @@ Mikael Palme, Mikael Börjesson, **Tobias Dalberg** & Donald Broady: "Transnatio
 ## 2011
 
 Ylva Bergström & **Tobias Dalberg**: "Political Space of Young Swedish Upper Secondary Pupils". Paper presenterat vid International Classification Conference. Symposium; Bourdieu and Geometric Analysis of Data, University of St Andrews, 11-15th of July 2011.
+
+
+{% render_map %}
