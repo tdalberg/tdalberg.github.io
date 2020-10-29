@@ -49,7 +49,7 @@ Mikael Börjesson, Emil Bertilsson & **Tobias Dalberg**: "Sweden", in Mikael Bö
 
 Ylva Bergström & **Tobias Dalberg**: "Education, Social Class and Politics: The Political Space of Swedish Youth in Uppsala", in Grenfell, Michael & Lebaron, Frédéric (eds)  _Bourdieu and Data Analysis. Methodological Principles and Practice_. Oxford: Peter Lang, 2014, 333 p.
 
-## :ledger: reports
+## <img src="https://tdalberg.github.io/files/clipboard-list.svg" height="24"> reports
 
 **Tobias Dalberg**: _Studiegångar vid Uppsala universitet. En analys av de fristående kursernas omfattning och relation till kvarvaro, examensfrekvens och övergångar till forskarutbildning_. Rapporter från Forskningsgruppen för utbildnings- och kultursociologi 60. Uppsala: SEC, Uppsala universitet, 2019, 27 p. [Fulltext](http://www.skeptron.uu.se/broady/sec/sec-60.pdf)
 
