@@ -22,7 +22,7 @@ permalink: /writings/
 Download: [Abstract](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-346824) and [fulltext](http://uu.diva-portal.org/smash/get/diva2:1195252/FULLTEXT01.pdf)  
 Review (in Swedish) by opponent Per Wisselgren (Docent, Umeå University): [External link](http://ojs.ub.umu.se/index.php/njedh/article/view/144/83)
 
-## :page_facing_up: articles
+## <img src="https://tdalberg.github.io/files/file-alt.svg" height="24"> articles
 Jens Peter Thomsen, Emil Bertilsson, **Tobias Dalberg**, Juha Hedman & Håvard Helland: "Higher education participation in the Nordic countries 1985-2010 – a comparative perspective", _European Sociological Review_, Vol. 33, No 1, 2017, p. 98-111.
 
 Erik Nylander & **Tobias Dalberg**: "Jazzklass. Folkhögskolan som intermediär utbildningsinstitution", _Pedagogisk forskning i Sverige_, Vol. 20 No 1-2, 2015, p. 100-126.
@@ -33,7 +33,7 @@ Ida Lidegran, Mikael Börjesson & **Tobias Dalberg**: "Uppkomsten av utbildninga
 
 Ylva Bergström & **Tobias Dalberg**: "Political Position-takings. The Case of Young Citizens in a Swedish Rural Mining District", _Praktiske Grunde_, No 4, 2012, p. 7-22.
 
-## :book: chapters
+## <img src="https://tdalberg.github.io/files/bookmark.svg" height="24"> chapters
 **Tobias Dalberg**: "Ett elfenbenstorn i samhällets tjänst? Humanisters och samhällsvetares uppdrag och yrkesbanor under 1900-talets första hälft", in a volume edited by Linus Salö, published by Dialogos Förlag (forthcoming 2020/2021).
 
 Mikael Börjesson & **Tobias Dalberg**: "Suède", in Sapiro, Gisèle (ed) *Dictionnaire international Bourdieu*. Paris: CNRS Éditions (forthcoming October 2020).
@@ -65,6 +65,6 @@ Mikael Börjesson, Donald Broady, **Tobias Dalberg** & Josefine Krigh: _Utbildni
 
 Donald Broady, Mikael Börjesson, **Tobias Dalberg**, Josefine Krigh & Ida Lidegran: _Inventering av svensk utbildningsvetenskaplig forskning_. Vetenskapsrådets rapportserie 2011:2. Stockholm: Vetenskapsrådet, 2011, 94 p. [Fulltext](https://www.vr.se/download/18.2412c5311624176023d25b22/1529480532262/Inventering-sv-utbildningsvetenskaplig-forskn_VR_2011.pdf)
 
-## :eyeglasses: reviews
+## <img src="https://tdalberg.github.io/files/book-reader.svg" height="24"> reviews
 
 **Tobias Dalberg**: "En aktion mot passivformer - Michael Billig om samhällsvetenskaplig prosa", review of Michael Billig's (2013) _Learn to Write Badly. How to Succeed in the Social Sciences_, _Praktiske Grunde_, No 3-4, 2014, p. 71-74.
