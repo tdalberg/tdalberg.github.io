@@ -68,9 +68,3 @@ Donald Broady, Mikael Börjesson, **Tobias Dalberg**, Josefine Krigh & Ida Lideg
 ## :eyeglasses: reviews
 
 **Tobias Dalberg**: "En aktion mot passivformer - Michael Billig om samhällsvetenskaplig prosa", review of Michael Billig's (2013) _Learn to Write Badly. How to Succeed in the Social Sciences_, _Praktiske Grunde_, No 3-4, 2014, p. 71-74.
-
-And this is something
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-
-<i class="fa fa-file-text"></i>
