@@ -43,7 +43,7 @@ Mikael Börjesson & **Tobias Dalberg**: "Suède", in Sapiro, Gisèle (ed) *Dicti
 **Tobias Dalberg**, Mikael Börjesson & Donald Broady: "A Reversed Order: Expansion and Differentiation of Social Sciences and Humanities in Sweden 1945–2015", in Fleck, Christian, Duller, Matthias & Karády, Victor (eds) _Shaping Human Science Disciplines. Institutional Developments in Europe and Beyond_. Cham: Palgrave Macmillan, 2019, 396 p.  
 Review (in German) of the edited volume: [External link](https://doi.org/10.1007/s11577-019-00589-8)  
 
-Mikael Börjesson, Donald Broady, **Tobias Dalberg** & Ida Lidegran: "Elite Education in Sweden — A Contradiction in Terms?", in Maxwell, CLaire & Aggleton, Peter (eds) _Elite Education – international perspectives_. London: Routledge, 2015, 202 p.
+Mikael Börjesson, Donald Broady, **Tobias Dalberg** & Ida Lidegran: "Elite Education in Sweden — A Contradiction in Terms?", in Maxwell, Claire & Aggleton, Peter (eds) _Elite Education – international perspectives_. London: Routledge, 2015, 202 p.
 
 Mikael Börjesson, Emil Bertilsson & **Tobias Dalberg**: "Sweden", in Mikael Börjesson, Sakari Ahola, Håvard Helland, Jens Peter Thomsen (eds) _Enrolment Patterns in Nordic Higher Education, ca 1945 to 2010_. Oslo: Nordisk institutt for studier av innovasjon, forskning og utdanning, 2014, 139 p.
 

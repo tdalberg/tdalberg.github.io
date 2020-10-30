@@ -3,7 +3,6 @@ layout: page
 title: cv
 permalink: /cv/
 ---
-# <img src="https://tdalberg.github.io/files/id-card.svg" height="24"> cv
 
 ## <img src="https://tdalberg.github.io/files/graduation-cap.svg" height="24"> education
 
