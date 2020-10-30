@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cv
+title: <img src="https://tdalberg.github.io/files/id-card.svg" height="24"> cv
 permalink: /cv/
 ---
 
