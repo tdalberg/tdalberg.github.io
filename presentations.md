@@ -54,7 +54,8 @@ Jens-Peter Thomsen, Emil Bertilsson, **Tobias Dalberg**, Juha Hedman & Håvard H
 
 **Tobias Dalberg**: "Transnational academic travels of mid-20th century professors in Sweden. Destinations and connections to the national academic field of human sciences". Paper presented at the 'Power, Cosmopolitanism, and the Transformation of European Elites' network meeting 3, Trinity College Dublin, June 8-9, 2015.
 
-**Tobias Dalberg**: "Swedish social sciences and humanities 1945–2005. Institutional development and the social and educational trajectories among SSH professors 1945". Paper presented at the 'Social Sciences since 1945 in East and West: Continuities, Discontinuities, Institutionalization and Internationalization' workshop, organised by the INTERCO-SSH research program of the European Commission, the Central European University and Pasts Inc., Centre for Historical Research of the History Department of the CEU, Central European University (Budapest), April 27-30, 2015. [Video](https://youtu.be/eyJxDeMSNyg?t=1840)
+**Tobias Dalberg**: "Swedish social sciences and humanities 1945–2005. Institutional development and the social and educational trajectories among SSH professors 1945". Paper presented at the 'Social Sciences since 1945 in East and West: Continuities, Discontinuities, Institutionalization and Internationalization' workshop, organised by the INTERCO-SSH research program of the European Commission, the Central European University and Pasts Inc., Centre for Historical Research of the History Department of the CEU, Central European University (Budapest), April 27-30, 2015. 
+Video: [External link](https://youtu.be/eyJxDeMSNyg?t=1840)
 
 ## 2014
 
