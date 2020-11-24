@@ -35,7 +35,7 @@ Ylva Bergström & **Tobias Dalberg**: "Political Position-takings. The Case of Y
 ## <img src="https://tdalberg.github.io/files/bookmark.svg" height="24"> chapters
 **Tobias Dalberg**: "Ett elfenbenstorn i samhällets tjänst? Humanisters och samhällsvetares uppdrag och yrkesbanor under 1900-talets första hälft", in a volume edited by Linus Salö, published by Dialogos Förlag (forthcoming 2020/2021).
 
-Mikael Börjesson & **Tobias Dalberg**: "Suède", in Sapiro, Gisèle (ed) *Dictionnaire international Bourdieu*. Paris: CNRS Éditions (forthcoming October 2020).
+Mikael Börjesson & **Tobias Dalberg**: "Suède", in Sapiro, Gisèle (ed) *Dictionnaire international Bourdieu*. Paris: CNRS Éditions (2020).
 
 **Tobias Dalberg**: "Structure and Change in the Field of Mid-Twentieth Century Human Scientists in Sweden", in Blasius, Jörg, Lebaron, Frédéric, Le Roux, Brigitte and Schmitz, Andreas (eds) _Empirical Investigation of the Social Space_. Methodos Series (Methodological Prospects in the Social Sciences), vol 15. Cham: Springer, 2019.
 
