@@ -10,12 +10,7 @@ permalink: /writings/
 
 ---
 
-
-[dissertation](#dissertation)  
-[articles](#articles)  
-[chapters](#chapters)  
-[reports](#reports)  
-[reviews](#reviews)  
+[toc]
 
 ## <img src="https://tdalberg.github.io/files/book.svg" height="24"> dissertation
 **Tobias Dalberg**: _Mot lärdomens topp: Svenska humanisters och samhällsvetares ursprung, utbildning och yrkesbana under 1900-talets första hälft_ [Reaching the Pinnacle of Scholarship: Social, Educational and Professional Trajectories in the Humanities and Social Sciences in Sweden during the First Half of the 20th century]. Uppsala: Acta Universitatis Upsaliensis, 2018, 313 p.  
@@ -50,6 +45,8 @@ Mikael Börjesson, Emil Bertilsson & **Tobias Dalberg**: "Sweden", in Mikael Bö
 Ylva Bergström & **Tobias Dalberg**: "Education, Social Class and Politics: The Political Space of Swedish Youth in Uppsala", in Grenfell, Michael & Lebaron, Frédéric (eds)  _Bourdieu and Data Analysis. Methodological Principles and Practice_. Oxford: Peter Lang, 2014, 333 p.
 
 ## <img src="https://tdalberg.github.io/files/clipboard-list.svg" height="24"> reports
+
+**Tobias Dalberg**, Martina Zachiu, Negin Shahsavar, Kristina Eriksson & Siri Hussenius: *Samstämmighet i läsbedömning. Statistisk analys vid bedömning av ett nationellt läsförståelseprov*. Svenska i utveckling 37. Uppsala: Uppsala universitet, 2020, 47 p. [Fulltext](https://www.natprov.nordiska.uu.se/digitalAssets/557/c_557840-l_3-k_sviu37fulltext.pdf) 
 
 **Tobias Dalberg**: _Studiegångar vid Uppsala universitet. En analys av de fristående kursernas omfattning och relation till kvarvaro, examensfrekvens och övergångar till forskarutbildning_. Rapporter från Forskningsgruppen för utbildnings- och kultursociologi 60. Uppsala: SEC, Uppsala universitet, 2019, 27 p. [Fulltext](http://www.skeptron.uu.se/broady/sec/sec-60.pdf)
 
