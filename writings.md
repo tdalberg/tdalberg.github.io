@@ -10,12 +10,6 @@ permalink: /writings/
 
 ---
 
-[dissertation](#dissertation)  
-[articles](#articles)  
-[chapters](#chapters)  
-[reports](#reports)  
-[reviews](# reviews)  
-
 ## <img src="https://tdalberg.github.io/files/book.svg" height="24"> dissertation
 **Tobias Dalberg**: _Mot lärdomens topp: Svenska humanisters och samhällsvetares ursprung, utbildning och yrkesbana under 1900-talets första hälft_ [Reaching the Pinnacle of Scholarship: Social, Educational and Professional Trajectories in the Humanities and Social Sciences in Sweden during the First Half of the 20th century]. Uppsala: Acta Universitatis Upsaliensis, 2018, 313 p.  
 Download: [Abstract](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-346824) and [fulltext](http://uu.diva-portal.org/smash/get/diva2:1195252/FULLTEXT01.pdf)  
@@ -35,7 +29,7 @@ Ylva Bergström & **Tobias Dalberg**: "Political Position-takings. The Case of Y
 ## <img src="https://tdalberg.github.io/files/bookmark.svg" height="24"> chapters
 **Tobias Dalberg**: "Ett elfenbenstorn i samhällets tjänst? Humanisters och samhällsvetares uppdrag och yrkesbanor under 1900-talets första hälft", in a volume edited by Linus Salö, published by Dialogos Förlag (forthcoming 2020/2021).
 
-Mikael Börjesson & **Tobias Dalberg**: "Suède", in Sapiro, Gisèle (ed) *Dictionnaire international Bourdieu*. Paris: CNRS Éditions (2020).
+Mikael Börjesson & **Tobias Dalberg**: "Suède", in Sapiro, Gisèle (ed) *Dictionnaire international Bourdieu*. Paris: CNRS Éditions, 2020, p. 828-830.
 
 **Tobias Dalberg**: "Structure and Change in the Field of Mid-Twentieth Century Human Scientists in Sweden", in Blasius, Jörg, Lebaron, Frédéric, Le Roux, Brigitte and Schmitz, Andreas (eds) _Empirical Investigation of the Social Space_. Methodos Series (Methodological Prospects in the Social Sciences), vol 15. Cham: Springer, 2019.
 
@@ -68,4 +62,6 @@ Donald Broady, Mikael Börjesson, **Tobias Dalberg**, Josefine Krigh & Ida Lideg
 
 ## <img src="https://tdalberg.github.io/files/book-reader.svg" height="24"> reviews
 
-**Tobias Dalberg**: "En aktion mot passivformer - Michael Billig om samhällsvetenskaplig prosa", review of Michael Billig's (2013) _Learn to Write Badly. How to Succeed in the Social Sciences_, _Praktiske Grunde_, No 3-4, 2014, p. 71-74.
+**Tobias Dalberg**: "Histoire des sciences", review of Yves Gingras' *Histoire des sciences* (2018), *Lychnos: Årsbok för idé- och lärdomshistoria*, 2020, p. 352-354.
+
+**Tobias Dalberg**: "En aktion mot passivformer - Michael Billig om samhällsvetenskaplig prosa", review of Michael Billig's _Learn to Write Badly. How to Succeed in the Social Sciences_ (2013), _Praktiske Grunde_, No 3-4, 2014, p. 71-74.
