@@ -27,7 +27,7 @@ Ida Lidegran, Mikael Börjesson & **Tobias Dalberg**: "Uppkomsten av utbildninga
 Ylva Bergström & **Tobias Dalberg**: "Political Position-takings. The Case of Young Citizens in a Swedish Rural Mining District", _Praktiske Grunde_, No 4, 2012, p. 7-22.
 
 ## <img src="https://tdalberg.github.io/files/bookmark.svg" height="24"> chapters
-**Tobias Dalberg**: "Ett elfenbenstorn i samhällets tjänst? Humanisters och samhällsvetares uppdrag och yrkesbanor under 1900-talets första hälft", in a volume edited by Linus Salö, published by Dialogos Förlag (forthcoming 2020/2021).
+**Tobias Dalberg**: "Ett elfenbenstorn i samhällets tjänst? Humanisters och samhällsvetares uppdrag och yrkesbanor under 1900-talets första hälft", in Salö, Linus (ed) *Humanvetenskapernas verkningar: Kunskap, samverkan, genomslag*. Stockholm: Dialogos, 2021.
 
 Mikael Börjesson & **Tobias Dalberg**: "Suède", in Sapiro, Gisèle (ed) *Dictionnaire international Bourdieu*. Paris: CNRS Éditions, 2020, p. 828-830.
 
@@ -44,7 +44,7 @@ Ylva Bergström & **Tobias Dalberg**: "Education, Social Class and Politics: The
 
 ## <img src="https://tdalberg.github.io/files/clipboard-list.svg" height="24"> reports
 
-**Tobias Dalberg**, Martina Zachiu, Negin Shahsavar, Kristina Eriksson & Siri Hussenius: *Samstämmighet i läsbedömning. Statistisk analys vid bedömning av ett nationellt läsförståelseprov*. Svenska i utveckling 37. Uppsala: Uppsala universitet, 2020, 47 p. [Fulltext](https://www.natprov.nordiska.uu.se/digitalAssets/557/c_557840-l_3-k_sviu37fulltext.pdf) 
+**Tobias Dalberg**, Martina Zachiu, Negin Shahsavar, Kristina Eriksson & Siri Hussenius: *Samstämmighet i läsbedömning. Statistisk analys vid bedömning av ett nationellt läsförståelseprov*. Svenska i utveckling 37. Uppsala: Uppsala universitet, 2020, 49 p. [Fulltext](https://www.natprov.nordiska.uu.se/digitalAssets/557/c_557840-l_3-k_sviu37fulltext.pdf) 
 
 **Tobias Dalberg**: _Studiegångar vid Uppsala universitet. En analys av de fristående kursernas omfattning och relation till kvarvaro, examensfrekvens och övergångar till forskarutbildning_. Rapporter från Forskningsgruppen för utbildnings- och kultursociologi 60. Uppsala: SEC, Uppsala universitet, 2019, 27 p. [Fulltext](http://www.skeptron.uu.se/broady/sec/sec-60.pdf)
 
