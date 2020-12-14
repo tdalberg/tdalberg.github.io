@@ -5,7 +5,7 @@ date: 2020-12-14 14:00:00 +0100
 tags: [higher education, policy]
 ---
 
-How fast can a virus spread among students at a university campus? Building on a [previous post](https://tdalberg.github.io/2020/12/09/a-network-of-students-and-courses-and-its-implications-for-epidemic-spread.html), I will try to answer this question by simulating spread of viral disease in a network of students and courses. While factors affecting epidemic spread are numerous, the point of this post is simply to show that there is readily available information about the ecology of universities that can be parsed and put to use for modeling purposes. As scholars of education, we know little or nothing about epidemiology or virology. But we know something about education and its organization, and we can use that something to facilitate epidemiological forecasts for our specific sphere of society.
+How fast can a virus spread among students at a university campus? Building on a [previous post](https://tdalberg.github.io/2020/12/09/a-network-of-students-and-courses-and-its-implications-for-epidemic-spread.html), I will try to answer this question by simulating spread of viral disease in a network of students and courses. While factors affecting epidemic spread are numerous, the point of this post is simply to show that there is readily available information about the ecology of universities that can be parsed and put to use for modeling purposes. As scholars of education, we know little or nothing about epidemiology or virology. But we know something about education and its organization, and we can use that something to facilitate epidemiological forecasts for our particular part of society.
 
 This simulation is based on a range of wild assumptions, some of which lead to overestimation while others lead to underestimation of epidemic spread on campus: 
 
@@ -23,12 +23,18 @@ Figure 1. An example of a student-to-course network with students (grey), course
 
 ![alt text](https://tdalberg.github.io/files/spread-3-steps.png)
 
-Since the amount of spread in this network model is contingent upon who will be the designated patient 0, it seems reasonable to run simulations where patient 0 is randomly drawn from the entire population of students. Figure 2 shows the distributions of the share of infected students after running 10,000 simulations for week 1, 2 and 3 respectively. After 1 week, the mean of the simulations suggest that 0.3 percent of students would have been infected. This number rises to 4.7% after 2 weeks, and 22.5% after 3 weeks. In other words, just over 1/5 of the student population at this university would be infected after 3 weeks, according to this model with its wild assumptions.
 
-Figure 2. 10,000 simulations of epidemic spread among students at a university campus, starting from a pseudo-randomly selected patient 0. Each week is simulated independently. 
+
+Since the amount of spread in this network model is contingent upon who will be the designated patient 0, it seems reasonable to run simulations where patient 0 is randomly drawn from the entire population of students. Figure 2 shows the distributions of the share of infected students after running 10,000 simulations for week 1, 2 and 3 respectively. After one week, the mean of the simulations suggest that 0.3 percent of students would have been infected. This number rises to 4.7% after two weeks, and 22.5% after three weeks. In other words, just over one fifth of the student population at this university would be infected after three weeks, according to this model with its wild assumptions.
+
+Figure 2. 10,000 simulations of epidemic spread among students at a university campus, starting from a pseudo-randomly selected patient 0. 
 
 ![alt text](https://tdalberg.github.io/files/share-infected-students-3-weeks.png)
 
-At this point, it should be noted that the means of the simulations resemble the proportion reachable in *k* steps from a [previous post](https://tdalberg.github.io/2020/12/09/a-network-of-students-and-courses-and-its-implications-for-epidemic-spread.html), simply because the mean of random samples of patient 0s will naturally approach the population mean (the overall proportion of students reachable in *k* steps). The added value of running the simulations is that we obtain a distribution around the mean that hopefully highlights that there is a range of possible outcomes that are either better or worse than what we might expect from looking at the mean alone.
+
+
+At this point, it should be noted that the means of the simulations resemble the neighborhood statistics (proportion reachable in *k* steps) from a [previous post](https://tdalberg.github.io/2020/12/09/a-network-of-students-and-courses-and-its-implications-for-epidemic-spread.html), simply because the mean of random samples of patient 0s will naturally approach the population mean (the overall proportion of students reachable in *k* steps). The added value of running the simulations is that we obtain a distribution around the mean that hopefully highlights that there is a range of possible outcomes that are either better or worse than what we might expect from looking at the mean alone.
+
+It is difficult to fully determine whether the spread simulated here is fast or slow in itself. However, since the results of these simulations map pretty well to the neighborhood statistics, we can compare with the same statistics from [Weeden & Cornwell (2020)](https://sociologicalscience.com/articles-v7-9-222/) and conclude that although 22.5% in three weeks might seem fast, it is definitely not as fast as the 92.1% estimated for Cornell. 
 
 Like any model, this one is wrong. In its current definition, it might not even be useful. But it has three main benefits that should make it easy to become useful: it is simple, more reasonable and useful assumptions can be accommodated, and it is built on empirical data of a "real" network.
