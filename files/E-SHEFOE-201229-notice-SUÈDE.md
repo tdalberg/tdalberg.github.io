@@ -1,4 +1,11 @@
+---
+layout: page
+---
+
+
+
 # SUÈDE
+
 Peu développée, la science sociale suédoise a eu tendance à importer les théories. Dominée depuis la Seconde Guerre mondiale par l’influence étasunienne, cette importation a la plupart du temps été marquée par une méconnaissance de l’état des champs dont ces théories proviennent, et par un déclin général de la capacité à lire les autres langues européennes. La réception des travaux de Pierre Bourdieu en Suède, n’étant pas d’abord passée par les États-Unis, fait figure d’exception.
 
 La première traduction en suédois de Bourdieu est le fait de Sven Sandström [1970], historien de l’art qui, dans une volonté de bâtir une sociologie empirique des arts, s’est appuyé dans ses travaux sur de courts extraits tirés d’*Un art moyen* et de *L’Amour de l’art*. Plus tard, le programme épistémologique développé dans *Le Métier de sociologue* a été introduit par Boel Berner [1972].
