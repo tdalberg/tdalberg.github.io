@@ -12,7 +12,8 @@ permalink: /cv/
 
 ## <img src="https://tdalberg.github.io/files/user-tie.svg" height="24"> professional appointments
 
-2018-2020 Postdoctoral scholar, Graduate School of Education, Stanford University.  
+2020–          Researcher, Department of Education, Uppsala University.  
+2018–2020 Postdoctoral scholar, Graduate School of Education, Stanford University.  
 2018–2018 Researcher, Department of Education, Uppsala University.  
 2018–2019 Statistician, Department of Scandinavian Languages, Uppsala University.  
 2012–2018 Doctoral student, Department of Education, Uppsala University.  
@@ -21,11 +22,12 @@ permalink: /cv/
 
 ## <img src="https://tdalberg.github.io/files/file-alt-solid.svg" height="24"> publications
 
-1 doctoral thesis (Uppsala University); 5 refereed journal articles (_European Sociological Review, Praktiske Grunde, Pedagogisk forskning i Sverige_); 4 refereed book chapters (Springer International, Palgrave Macmillan, Routledge, Peter Lang); 7 scientific reports (NIFU, Swedish Research Council, Uppsala University).
+1 doctoral thesis (Uppsala University); 6 refereed journal articles (_AERA Open, European Sociological Review, Praktiske Grunde, Pedagogisk forskning i Sverige_); 6 refereed book chapters (CNRS Éditions, Springer International, Palgrave Macmillan, Routledge, Peter Lang); 7 scientific reports (NIFU, Swedish Research Council, Uppsala University).
 
 ## <img src="https://tdalberg.github.io/files/project-diagram.svg" height="24"> project and network activities
 
 - Principal investigator in the project *Mapping Pathways in Higher Education. Swedish and Stanford students' social origins, educational trajectories and destinations since the 1980s*. Funded by Knut and Alice Wallenberg Foundation 2018-2020 at Stanford University and 2020-2022 at Uppsala University. 
+- Co-lead in the contract research project *Ett vidgat perspektiv på breddad rekrytering [A broader perspective on widening participation]*. Funded by Swedish Council for Higher Education 2021. 
 - Research assistant in the project _Swedish Higher Education. Financing, Organisation, Enrolment, Outcomes, 1950-2020_ (M. Börjesson) Funded by The Swedish Research Council 2017–2020.
 - Research assistant in the project _Nordic Fields of Higher Education. Structures and transformations of organisation and recruitment_ (M. Börjesson) Funded by Nordforsk 2013–2015.
 - Research assistant in the project _Domestic Arenas of Internationalization Swedish Higher Education and International Students, 1945-2015_ (M. Börjesson) Funded by The Swedish Research Council 2011–2015.
