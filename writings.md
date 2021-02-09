@@ -38,8 +38,6 @@ Review (in German) of the edited volume: [External link](https://doi.org/10.1007
 
 Mikael Börjesson, Donald Broady, **Tobias Dalberg** & Ida Lidegran: "Elite Education in Sweden — A Contradiction in Terms?", in Maxwell, Claire & Aggleton, Peter (eds) _Elite Education – international perspectives_. London: Routledge, 2015, 202 p.
 
-Mikael Börjesson, Emil Bertilsson & **Tobias Dalberg**: "Sweden", in Mikael Börjesson, Sakari Ahola, Håvard Helland, Jens Peter Thomsen (eds) _Enrolment Patterns in Nordic Higher Education, ca 1945 to 2010_. Oslo: Nordisk institutt for studier av innovasjon, forskning og utdanning, 2014, 139 p.
-
 Ylva Bergström & **Tobias Dalberg**: "Education, Social Class and Politics: The Political Space of Swedish Youth in Uppsala", in Grenfell, Michael & Lebaron, Frédéric (eds)  _Bourdieu and Data Analysis. Methodological Principles and Practice_. Oxford: Peter Lang, 2014, 333 p.
 
 ## <img src="https://tdalberg.github.io/files/clipboard-list.svg" height="24"> reports
@@ -53,6 +51,8 @@ Mikael Börjesson, **Tobias Dalberg** & Ola Agevall: _Högre utbildning som bild
 **Tobias Dalberg**: _Samstämmighet i skrivbedömning. Statistisk analys vid bedömning av två nationella skrivprov_. Svenska i utveckling 36. Uppsala: Uppsala universitet, 2019, 49 p. [Fulltext](https://www.natprov.nordiska.uu.se/digitalAssets/557/c_557840-l_3-k_sviu36fulltext.pdf)
 
 **Tobias Dalberg**: _Publiceringar inom Fakulteten för utbildningsvetenskaper. En kartläggning av åren 2011–2017_. Dnr UTBVET 2018/943. Uppsala: Uppsala universitet, 2018, 50 p. [Fulltext](http://www.diva-portal.org/smash/get/diva2:1264687/FULLTEXT01.pdf)
+
+Mikael Börjesson, Emil Bertilsson & **Tobias Dalberg**: "Sweden", in Mikael Börjesson, Sakari Ahola, Håvard Helland, Jens Peter Thomsen (eds) _Enrolment Patterns in Nordic Higher Education, ca 1945 to 2010_. Oslo: Nordisk institutt for studier av innovasjon, forskning og utdanning, 2014, 139 p.
 
 **Tobias Dalberg**: _Engelskans utbredning i den svenska högskolan. En kartläggning av engelskspråkiga benämningar av program och kurser i svensk högre utbildning 1993–2009_. Rapporter från Forskningsgruppen för utbildnings- och kultursociologi 52. Uppsala: SEC, Uppsala universitet, 2013, 54 p. [Fulltext](www.skeptron.uu.se/broady/sec/sec-52.pdf)
 
