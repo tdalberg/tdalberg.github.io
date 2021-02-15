@@ -16,7 +16,7 @@ Download: [Abstract](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-346
 Review (in Swedish) by opponent Per Wisselgren (Docent, Umeå University): [External link](http://ojs.ub.umu.se/index.php/njedh/article/view/144/83)
 
 ## <img src="https://tdalberg.github.io/files/file-alt.svg" height="24"> articles
-Sorathan Chaturapruek, **Tobias Dalberg**, Marissa E. Thompson, Sonia Giebel, Monique H. Harrison, Ramesh Johari, Mitchell L. Stevens & Rene F. Kizilcec: “Studying Undergraduate Course Consideration at Scale”, *AERA Open*, Vol. 7, No 1, 2021, 1-16. [Fulltext]([https://doi.org/10.1177/2332858421991148](https://doi.org/10.1177%2F2332858421991148))
+Sorathan Chaturapruek, **Tobias Dalberg**, Marissa E. Thompson, Sonia Giebel, Monique H. Harrison, Ramesh Johari, Mitchell L. Stevens & Rene F. Kizilcec: “Studying Undergraduate Course Consideration at Scale”, *AERA Open*, Vol. 7, No 1, 2021, 1-16. [Fulltext](https://doi.org/10.1177/2332858421991148)
 
 Jens Peter Thomsen, Emil Bertilsson, **Tobias Dalberg**, Juha Hedman & Håvard Helland: "Higher education participation in the Nordic countries 1985-2010 – a comparative perspective", _European Sociological Review_, Vol. 33, No 1, 2017, p. 98-111.
 
