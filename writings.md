@@ -6,7 +6,7 @@ permalink: /writings/
 
 ---
 
-![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png "Dictionnaire international Bourdieu") ![alt text](https://tdalberg.github.io/files/EmpInv.jpg "Empirical Investigation of the Social Space") ![alt text](https://tdalberg.github.io/files/SviU36.JPG "Samstämmighet i skrivbedömning") ![alt text](https://tdalberg.github.io/files/shapinghumsci.jpg "Shaping Human Science Disciplines") ![alt text](https://tdalberg.github.io/files/avhcover.jpg "Reaching the Pinnacle of Scholarship") ![alt text](https://tdalberg.github.io/files/eursoj_33_1cover.png "Higher education participation in the Nordic countries 1985-2010 – a comparative perspective") 
+<img src="https://journals.sagepub.com/pb-assets/ERO_72ppiRGB_150pixW-1553708104670.jpg" height="143" title="Studying Undergraduate Course Consideration at Scale"> ![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png "Dictionnaire international Bourdieu") ![alt text](https://tdalberg.github.io/files/SviU37.png "Samstämmighet i läsbedömning") ![alt text](https://tdalberg.github.io/files/EmpInv.jpg "Empirical Investigation of the Social Space") ![alt text](https://tdalberg.github.io/files/SviU36.JPG "Samstämmighet i skrivbedömning") ![alt text](https://tdalberg.github.io/files/shapinghumsci.jpg "Shaping Human Science Disciplines") 
 
 ---
 
