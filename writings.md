@@ -6,7 +6,7 @@ permalink: /writings/
 
 ---
 
-<img src="https://journals.sagepub.com/pb-assets/ERO_72ppiRGB_150pixW-1553708104670.jpg" height="143" title="Studying Undergraduate Course Consideration at Scale"> ![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png "Dictionnaire international Bourdieu") ![alt text](https://tdalberg.github.io/files/SviU37.png "Samstämmighet i läsbedömning") ![alt text](https://tdalberg.github.io/files/EmpInv.jpg "Empirical Investigation of the Social Space") ![alt text](https://tdalberg.github.io/files/SviU36.JPG "Samstämmighet i skrivbedömning") ![alt text](https://tdalberg.github.io/files/shapinghumsci.jpg "Shaping Human Science Disciplines") 
+<img src="https://cdn.abicart.com/shop/29929/art29/h8695/181798695-origpic-cbd180.jpg?max-width=588&max-height=143&quality=80" height="143" title="Ett elfenbenstorn i samhällets tjänst?"> <img src="https://journals.sagepub.com/pb-assets/ERO_72ppiRGB_150pixW-1553708104670.jpg" height="143" title="Studying Undergraduate Course Consideration at Scale"> ![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png "Dictionnaire international Bourdieu") ![alt text](https://tdalberg.github.io/files/SviU37.png "Samstämmighet i läsbedömning") ![alt text](https://tdalberg.github.io/files/EmpInv.jpg "Empirical Investigation of the Social Space") ![alt text](https://tdalberg.github.io/files/SviU36.JPG "Samstämmighet i skrivbedömning")
 
 ---
 
