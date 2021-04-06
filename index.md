@@ -4,7 +4,9 @@ title: welcome
 
 ---
 
-<sup>:new:</sup> Published an article on how to study undergraduate course consideration at scale with Tum Chaturapruek, Marissa E. Thompson, Sonia Giebel, Monique H. Harrison, Ramesh Johari, Mitchell L. Stevensand René F. Kizilcec. See [writings](https://tdalberg.github.io/writings/) or download [fulltext](https://doi.org/10.1177%2F2332858421991148).
+<sup>:new:</sup> Published a chapter on the extramural activities of scholars in humanities and social sciences in Sweden ca 1900&ndash;1950. See [writings](https://tdalberg.github.io/writings/) or [buy book](https://www.dialogosforlag.se/bocker/samhallsfragor/humanvetenskapernas-verkningar.html).
+
+<sup>:new:</sup> Published an article on how to study undergraduate course consideration at scale with Tum Chaturapruek, Marissa E. Thompson, Sonia Giebel, Monique H. Harrison, Ramesh Johari, Mitchell L. Stevens and René F. Kizilcec. See [writings](https://tdalberg.github.io/writings/) or download [fulltext](https://doi.org/10.1177%2F2332858421991148).
 
 ---
 
@@ -14,7 +16,9 @@ This is the place where Tobias Dalberg shares information about his work. He cur
 
 - Exploring and evaluating the utility of techniques from graph theory, natural language processing and geometric data analysis for analyzing pathways in higher education.
 - Developing a methodology for analyzing social change such as structural and relative social mobility and shifts in occupational status.
-- Finishing a chapter about the extramural activities of scholars in humanities and social sciences in Sweden ca 1900&ndash;1950 for an edited volume in Swedish.
+- Using the notion of curricular blind spots to analyze gender differences in consideration and choice of courses in college.
+- Applying the sieve metaphor (à la Sorokin 1927 and Stevens et al 2008) to the higher education curriculum as a way to describe the social structure of the system of college majors.
+- Synthesizing the socio-political history of higher education in Sweden 1945–2020.
 
 
 <div style="width: 100%; display: table;">
