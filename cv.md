@@ -22,7 +22,7 @@ permalink: /cv/
 
 ## <img src="https://tdalberg.github.io/files/file-alt-solid.svg" height="24"> publications
 
-1 doctoral thesis (Uppsala University); 6 refereed journal articles (_AERA Open, European Sociological Review, Praktiske Grunde, Pedagogisk forskning i Sverige_); 6 refereed book chapters (CNRS Éditions, Springer International, Palgrave Macmillan, Routledge, Peter Lang); 7 scientific reports (NIFU, Swedish Research Council, Uppsala University).
+1 doctoral thesis (Uppsala University); 7 refereed journal articles (_AERA Open, European Journal of Higher Education, European Sociological Review, Praktiske Grunde, Pedagogisk forskning i Sverige_); 6 refereed book chapters (CNRS Éditions, Springer International, Palgrave Macmillan, Routledge, Peter Lang); 7 scientific reports (NIFU, Swedish Research Council, Uppsala University).
 
 ## <img src="https://tdalberg.github.io/files/project-diagram.svg" height="24"> project and network activities
 
