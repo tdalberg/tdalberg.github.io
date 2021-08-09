@@ -4,6 +4,10 @@ title: presentations
 permalink: /presentations/
 ---
 
+## 2021
+
+Marissa E. Thompson, **Tobias Dalberg** & Elizabeth Bruch: "Curricular Blind Spots: How Course Consideration Varies Across Undergraduate Students" at the roundtable session 6 ‘Inside Colleges and Universities’, 116th ASA Annual Meeting, Virtual Engagement Event, August 6–10, 2021.
+
 ## 2020
 
 **Tobias Dalberg**, Kalena E. Cortes, Mitchell L. Stevens: "Gender and the Evolution of Major Choice among US Undergraduates" at the session ‘Tracking, Curricular Structure, and Inequality’, 115th ASA Annual Meeting, Virtual Engagement Event, August 10, 2020.
