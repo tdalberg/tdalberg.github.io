@@ -6,6 +6,10 @@ permalink: /presentations/
 
 ## 2021
 
+**Tobias Dalberg**: "An Ivory Tower in the Service of Society?" at the symposium 'What is the Future of the History of the Humanities?', Lund Centre for the History of Knowledge, Lund University, December 8, 2021.
+
+Marissa E. Thompson, **Tobias Dalberg** & Elizabeth Bruch: "Curricular Blind Spots: How Course Characteristics and Gender Shape Undergraduate Course Consideration" at the panel ‘Understanding Academic Progress at Scale’, Empowering Learners for the Age of AI, Global Online Conference, December 7–8, 2021.
+
 Marissa E. Thompson, **Tobias Dalberg** & Elizabeth Bruch: "Curricular Blind Spots: How Course Consideration Varies Across Undergraduate Students" at the roundtable session 6 ‘Inside Colleges and Universities’, 116th ASA Annual Meeting, Virtual Engagement Event, August 6–10, 2021.
 
 ## 2020
