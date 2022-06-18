@@ -41,3 +41,7 @@ permalink: /cv/
 - Taught a total of 9 courses at Uppsala University, mostly on undergraduate level.
 - Assistant advisor for 2 doctoral students at Uppsala university.
 - Supervisor for 3 undergraduate essays. 
+
+## <img src="https://tdalberg.github.io/files/comments.svg" height="24"> peer review
+
+- Studentlitteratur; Palgrave Macmillan.
