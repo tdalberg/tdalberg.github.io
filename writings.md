@@ -67,6 +67,8 @@ Donald Broady, Mikael Börjesson, **Tobias Dalberg**, Josefine Krigh & Ida Lideg
 
 ## <img src="https://tdalberg.github.io/files/book-reader.svg" height="24"> reviews
 
+**Tobias Dalberg**: review of Hampus Östh Gustafsson's *Folkhemmets styvbarn: Humanioras legitimitet i svensk kunskapspolitik 1935–1980* (2020), *Nordic Journal of Educational History*, Vol. 9, No 1, 2022.
+
 **Tobias Dalberg**: "Histoire des sciences", review of Yves Gingras' *Histoire des sciences* (2018), *Lychnos: Årsbok för idé- och lärdomshistoria*, 2020, p. 352-354.
 
 **Tobias Dalberg**: "En aktion mot passivformer - Michael Billig om samhällsvetenskaplig prosa", review of Michael Billig's _Learn to Write Badly. How to Succeed in the Social Sciences_ (2013), _Praktiske Grunde_, No 3-4, 2014, p. 71-74.
