@@ -44,4 +44,4 @@ permalink: /cv/
 
 ## <img src="https://tdalberg.github.io/files/comments.svg" height="24"> peer review
 
-- Studentlitteratur; Palgrave Macmillan.
+- Studentlitteratur; Palgrave Macmillan; *Sociologisk Forskning*.
