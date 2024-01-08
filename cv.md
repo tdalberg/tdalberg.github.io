@@ -12,7 +12,7 @@ permalink: /cv/
 
 ## <img src="https://tdalberg.github.io/files/user-tie.svg" height="24"> professional appointments
 
-2022-     Senior lecturer, Department of Education, Uppsala University. 
+2022-     Senior lecturer, Department of Education, Uppsala University.    
 2020–2022 Researcher, Department of Education, Uppsala University.  
 2018–2020 Postdoctoral scholar, Graduate School of Education, Stanford University.  
 2018–2018 Researcher, Department of Education, Uppsala University.  
