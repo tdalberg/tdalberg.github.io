@@ -4,6 +4,10 @@ title: presentations
 permalink: /presentations/
 ---
 
+## 2024
+
+**Tobias Dalberg**: "Utbildningsdata: En omistlig källa till utbildningssociologisk kunskap" at the seminar "Data och infrastruktur för utbildningsvetenskaplig forskning", Vetenskapsrådet, Stockholm, April 17, 2024.
+
 ## 2021
 
 **Tobias Dalberg**: "An Ivory Tower in the Service of Society?" at the symposium 'What is the Future of the History of the Humanities?', Lund Centre for the History of Knowledge, Lund University, December 8, 2021.
