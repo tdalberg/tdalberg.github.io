@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Textanalys del I"
-date: 2024-05-06 17:30:00 +0100
+date: 2024-05-06 16:30:00 +0100
 tags: [R]
 ---
 
@@ -55,7 +55,7 @@ Så jag beskrev vad jag hade gjort och kopierade koden ovan. Chatboten bekräfta
 
 > That is correct. Each chapter is in a separate html file. Genesis chapter 1 is in file 01_01.html and so on
 
-Nu fick jag ännu en kodsnutt, innan jag han skriva:
+Nu fick jag ännu en kodsnutt, innan jag hann skriva:
 
 > and here is what the top 12 rows in file 01_01.html look like:
 
