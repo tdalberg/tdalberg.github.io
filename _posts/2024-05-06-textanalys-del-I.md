@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Textanalys del I"
-date: 2024-05-06 20:30:00 +0100
+date: 2024-05-06 17:30:00 +0100
 tags: [R]
 ---
 
