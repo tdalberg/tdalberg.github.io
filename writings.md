@@ -6,7 +6,7 @@ permalink: /writings/
 
 ---
 
-<img src="https://www.tandfonline.com/action/showCoverImage?journalCode=rehe20" height="143" title="Massification, unification, marketisation, internationalisation: a socio-political history of higher education in Sweden 1945–2020"> <img src="https://cdn.abicart.com/shop/29929/art29/h8695/181798695-origpic-cbd180.jpg?max-width=588&max-height=143&quality=80" height="143" title="Ett elfenbenstorn i samhällets tjänst?"> <img src="https://journals.sagepub.com/pb-assets/ERO_72ppiRGB_150pixW-1553708104670.jpg" height="143" title="Studying Undergraduate Course Consideration at Scale"> ![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png "Dictionnaire international Bourdieu") ![alt text](https://tdalberg.github.io/files/SviU37.png "Samstämmighet i läsbedömning") ![alt text](https://tdalberg.github.io/files/EmpInv.jpg "Empirical Investigation of the Social Space") 
+<img src="https://journals.sagepub.com/pb-assets/ERO_72ppiRGB_150pixW-1553708104670.jpg" height="143" title="Major Selection as Iteration: Observing Gendered Patterns of Major Selection under Elective Curriculums"> <img src="https://www.tandfonline.com/action/showCoverImage?journalCode=rehe20" height="143" title="Massification, unification, marketisation, internationalisation: a socio-political history of higher education in Sweden 1945–2020"> <img src="https://cdn.abicart.com/shop/29929/art29/h8695/181798695-origpic-cbd180.jpg?max-width=588&max-height=143&quality=80" height="143" title="Ett elfenbenstorn i samhällets tjänst?"> <img src="https://journals.sagepub.com/pb-assets/ERO_72ppiRGB_150pixW-1553708104670.jpg" height="143" title="Studying Undergraduate Course Consideration at Scale"> ![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png "Dictionnaire international Bourdieu") ![alt text](https://tdalberg.github.io/files/SviU37.png "Samstämmighet i läsbedömning")  
 
 ---
 
@@ -16,6 +16,9 @@ Download: [Abstract](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-346
 Review (in Swedish) by opponent Per Wisselgren (Docent, Umeå University): [External link](http://ojs.ub.umu.se/index.php/njedh/article/view/144/83)
 
 ## <img src="https://tdalberg.github.io/files/file-alt.svg" height="24"> articles
+**Tobias Dalberg**, Kalena E. Cortes & Mitchell L. Stevens: "Major Selection as Iteration: Observing Gendered Patterns of Major Selection under Elective Curriculums", *AERA Open*, Vol. 10, No 1, 2024. [Fulltext](https://doi.org/10.1177/23328584241249600)
+Data deposit and setup files: [openICPSR](https://doi.org/10.3886/E198821V1)
+
 Mikael Börjesson & **Tobias Dalberg**: "Massification, unification, marketisation, internationalisation: a socio-political history of higher education in Sweden 1945–2020", *European Journal of Higher Education*, Vol. 11, No 3, 2021, p. 346–364. [Fulltext](https://doi.org/10.1080/21568235.2021.1945473)
 
 Sorathan Chaturapruek, **Tobias Dalberg**, Marissa E. Thompson, Sonia Giebel, Monique H. Harrison, Ramesh Johari, Mitchell L. Stevens & Rene F. Kizilcec: “Studying Undergraduate Course Consideration at Scale”, *AERA Open*, Vol. 7, No 1, 2021, 1-16. [Fulltext](https://doi.org/10.1177/2332858421991148)
@@ -46,6 +49,10 @@ Mikael Börjesson, Donald Broady, **Tobias Dalberg** & Ida Lidegran: "Elite Educ
 Ylva Bergström & **Tobias Dalberg**: "Education, Social Class and Politics: The Political Space of Swedish Youth in Uppsala", in Grenfell, Michael & Lebaron, Frédéric (eds)  _Bourdieu and Data Analysis. Methodological Principles and Practice_. Oxford: Peter Lang, 2014, 333 p.
 
 ## <img src="https://tdalberg.github.io/files/clipboard-list.svg" height="24"> reports
+
+**Tobias Dalberg**: _Publiceringar inom Fakulteten för utbildningsvetenskaper. En kartläggning av åren 2018–2023_. Dnr UTBVET 2023/726. Uppsala: Uppsala universitet, 2024, 47 p.
+
+**Tobias Dalberg**, Mikael Börjesson & Ricardo Cevallos: *Ett vidgat perspektiv på breddad rekrytering. Statistiska analyser av studier, arbete och livsbanor 2000–2019*. UHR:s rapportserie 2022:8. Stockholm: Universitets- och högskolerådet, 2022, 44 p.
 
 **Tobias Dalberg**, Martina Zachiu, Negin Shahsavar, Kristina Eriksson & Siri Hussenius: *Samstämmighet i läsbedömning. Statistisk analys vid bedömning av ett nationellt läsförståelseprov*. Svenska i utveckling 37. Uppsala: Uppsala universitet, 2020, 49 p. [Fulltext](https://www.natprov.nordiska.uu.se/digitalAssets/557/c_557840-l_3-k_sviu37fulltext.pdf) 
 
