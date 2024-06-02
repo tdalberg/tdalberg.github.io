@@ -71,7 +71,7 @@ Chatboten återkom med lite bättre fungerande kod, där bara ett bekymmer åter
 
 > We're getting there. Book 31 doesn't have any chapters, so the file is only named 31.html. Can your code accomodate that as well?
 
-Svaret på den frågan ledde till koden nedan, där jag endast
+Svaret på den frågan ledde till koden nedan, där jag endast lagt till ett alternativ för att hämta relevanta filer och talat om för R att de två första filerna i `html_files` inte ska läsas in eftersom de inte utgör böcker i bibeln.
 
 ```R
 # List HTML files in the directory
