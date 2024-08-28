@@ -6,6 +6,8 @@ title: welcome
 
 <sup>:new:</sup> Published an article on major selection as iteration and how gender differentiation is mediated by elective curriculums. See [writings](https://tdalberg.github.io/writings/) or download [fulltext](https://doi.org/10.1177/23328584241249600).
 
+<sup>:new:</sup> Bibliography on the institutional development of social science and humanities disciplines in Sweden made available on [Zotero](https://www.zotero.org/groups/5637873/histories-of-swe-ssh/library).
+
 ---
 
 ![alt text](https://tdalberg.github.io/files/small_FotografJN6.jpg)
