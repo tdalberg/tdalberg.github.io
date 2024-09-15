@@ -108,3 +108,4 @@ mechanisms --> outputs
 Why is this a useful definition? It has the education-as-part-of-the-rest-of-society element of which I am quite fond. Furthermore, the systems metaphor is great because (almost) no matter which theory is your favorite, you can always communicate this theory to others by refering to the schematic model of the system.
 
 
+{% for tag in page.tags %} {{ tag }} {% endfor %}
