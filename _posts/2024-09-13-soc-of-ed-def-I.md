@@ -103,13 +103,8 @@ scholastic-mechanisms --> mechanisms
 
 mechanisms --> outputs
 </pre>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
 
 Why is this a useful definition? It has the education-as-part-of-the-rest-of-society element of which I am quite fond. Furthermore, the systems metaphor is great because (almost) no matter which theory is your favorite, you can always communicate this theory to others by refering to the schematic model of the system.
 
-<script type="module">
-	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-	mermaid.initialize({
-		startOnLoad: true,
-		theme: 'dark'
-	});
-</script>
+
