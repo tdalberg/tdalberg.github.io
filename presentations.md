@@ -6,7 +6,13 @@ permalink: /presentations/
 
 ## 2024
 
+**Tobias Dalberg**: "An Ivory Tower in Service of Society?" at the panel 'The Social Diaspora of Humanistic Knowledge: Extramural Histories of the Humanities c. 1850–1950', Lund University, October 9–11, 2024.
+
+Marissa E. Thompson, **Tobias Dalberg**, Elizabeth E. Bruch: "Gender Composition, Decision-Making, and Gender Stratification in Undergraduate Course-Taking " at the Quantitative Research Methods in Education Annual Conference, Göteborg University, June 10–11, 2024.
+
 **Tobias Dalberg**: "Utbildningsdata: En omistlig källa till utbildningssociologisk kunskap" at the seminar "Data och infrastruktur för utbildningsvetenskaplig forskning", Vetenskapsrådet, Stockholm, April 17, 2024.
+
+
 
 ## 2021
 
