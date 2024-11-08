@@ -6,7 +6,7 @@ permalink: /writings/
 
 ---
 
-<img src="https://journals.sagepub.com/pb-assets/ERO_72ppiRGB_150pixW-1553708104670.jpg" height="143" title="Major Selection as Iteration: Observing Gendered Patterns of Major Selection under Elective Curriculums"> <img src="https://www.tandfonline.com/action/showCoverImage?journalCode=rehe20" height="143" title="Massification, unification, marketisation, internationalisation: a socio-political history of higher education in Sweden 1945–2020"> <img src="https://cdn.abicart.com/shop/29929/art29/h8695/181798695-origpic-cbd180.jpg?max-width=588&max-height=143&quality=80" height="143" title="Ett elfenbenstorn i samhällets tjänst?"> <img src="https://journals.sagepub.com/pb-assets/ERO_72ppiRGB_150pixW-1553708104670.jpg" height="143" title="Studying Undergraduate Course Consideration at Scale"> ![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png "Dictionnaire international Bourdieu") ![alt text](https://tdalberg.github.io/files/SviU37.png "Samstämmighet i läsbedömning")  
+![alt text](https://tdalberg.github.io/files/socsci2024.JPG "Gender Segregation and Decision-Making in Undergraduate Course-Taking") <img src="https://journals.sagepub.com/pb-assets/ERO_72ppiRGB_150pixW-1553708104670.jpg" height="143" title="Major Selection as Iteration: Observing Gendered Patterns of Major Selection under Elective Curriculums"> <img src="https://www.tandfonline.com/action/showCoverImage?journalCode=rehe20" height="143" title="Massification, unification, marketisation, internationalisation: a socio-political history of higher education in Sweden 1945–2020"> <img src="https://cdn.abicart.com/shop/29929/art29/h8695/181798695-origpic-cbd180.jpg?max-width=588&max-height=143&quality=80" height="143" title="Ett elfenbenstorn i samhällets tjänst?"> <img src="https://journals.sagepub.com/pb-assets/ERO_72ppiRGB_150pixW-1553708104670.jpg" height="143" title="Studying Undergraduate Course Consideration at Scale"> ![alt text](https://tdalberg.github.io/files/CouvDicoBourdieu-1.png "Dictionnaire international Bourdieu") 
 
 ---
 
@@ -16,6 +16,10 @@ Download: [Abstract](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-346
 Review (in Swedish) by opponent Per Wisselgren (Docent, Umeå University): [External link](http://ojs.ub.umu.se/index.php/njedh/article/view/144/83)
 
 ## <img src="https://tdalberg.github.io/files/file-alt.svg" height="24"> articles
+
+Marissa E. Thompson, **Tobias Dalberg** & Elizabeth E. Bruch: "Gender Segregation and Decision-Making in Undergraduate Course-Taking", *Sociological Science*, Vol. 11, 2024,  1017–1045. [Fulltext](https://sociologicalscience.com/download/vol_11/november/SocSci_v11_1017to1045.pdf)
+Data deposit and setup files: [OSF](https://osf.io/ya3t8/)
+
 **Tobias Dalberg**, Kalena E. Cortes & Mitchell L. Stevens: "Major Selection as Iteration: Observing Gendered Patterns of Major Selection under Elective Curriculums", *AERA Open*, Vol. 10, No 1, 2024. [Fulltext](https://doi.org/10.1177/23328584241249600)
 Data deposit and setup files: [openICPSR](https://doi.org/10.3886/E198821V1)
 
