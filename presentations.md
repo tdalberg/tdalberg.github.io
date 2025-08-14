@@ -4,9 +4,21 @@ title: presentations
 permalink: /presentations/
 ---
 
+## 2025
+
+Ole Hexel, Yann Renisio, **Tobias Dalberg**: "Estimating occupational clustering based on complete kinship networks" at the panel "Social Networks II", 11th International Conference on Computational Social Science,  Norrköping, July 21–24, 2025.
+
+**Tobias Dalberg**: "Den akademiska friheten i utbildningssociologisk belysning" at part 4 "Utbildningens frihet" of the seminar series "Akademisk frihet", Mid Sweden University, May 5, 2025.
+
+Per Wisselgren (PI), Hampus Östh Gustafsson, **Tobias Dalberg**: Presentation of the project "Funding effects: The Emergence of Public Research Councils and the Formation of the Human Sciences in Sweden, 1947–1977" at the higher seminar at Department of Culture and Aesthetics, Stockholm University, March 25, 2025.
+
+Per Wisselgren (PI), Hampus Östh Gustafsson, **Tobias Dalberg**: Presentation of the project at the higher seminar at Department of History of Science and Ideas, Uppsala University, March 3, 2025.
+
 ## 2024
 
-**Tobias Dalberg**: "An Ivory Tower in Service of Society?" at the panel 'The Social Diaspora of Humanistic Knowledge: Extramural Histories of the Humanities c. 1850–1950', Lund University, October 9–11, 2024.
+Per Wisselgren (PI), Hampus Östh Gustafsson, **Tobias Dalberg**: Presentation the project "Funding effects: The Emergence of Public Research Councils and the Formation of the Human Sciences in Sweden, 1947–1977" at the WORMs: Exploratory Workshop on Research Metrics, Uppsala University, October 14–15 , 2024.
+
+**Tobias Dalberg**: "An Ivory Tower in Service of Society?" at the panel 'The Social Diaspora of Humanistic Knowledge: Extramural Histories of the Humanities c. 1850–1950', History of Humanities, Lund University, October 9–11, 2024.
 
 Marissa E. Thompson, **Tobias Dalberg**, Elizabeth E. Bruch: "Gender Composition, Decision-Making, and Gender Stratification in Undergraduate Course-Taking " at the Quantitative Research Methods in Education Annual Conference, Göteborg University, June 10–11, 2024.
 
