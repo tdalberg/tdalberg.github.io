@@ -12,6 +12,10 @@ Research community:
 
   - > ... a node in Scandinavia for research in the vein of certain French traditions founded by Pierre Bourdieu, Jean-Paul Benzécri and others. The research areas include studies on cultural fields, history of education, formation of elites, students’ trajectories, and transnational transformations of the educational and cultural fields. There is also methodologically oriented work on geometric data analysis and prosopographical methods. ([source](http://skeptron.uu.se/broady/sec/))
 
+- [Freedom to Research, a CAT group](https://freedomtoresearch.net/) 
+
+  - > Threats to academic freedom have raised concerns and generated scholarly debate. Funding science is a key component in sustaining freedom in the pursuit of knowledge creation (research) and transfer (teaching). This project addresses the question of how funding regimes affect the academic freedom of early-career academics. We approach the problem through an open-minded, exploratory and interdisciplinary process. ([source](https://freedomtoresearch.net/))
+
 - [Pathways Lab](https://pathwayslab.stanford.edu/), Stanford University
 
   - > ... aim to understand how identities, aspirations and learning opportunities coevolve to shape lives and life chances... use a variety of methods, data sources, and conceptual frameworks to understand how people make sense of learning experiences; how families, schools and workplaces recognize and reward learning; and how learning opportunities can be made more effective, equitable, enjoyable and humane. ([source](https://pathwayslab.stanford.edu/about/))
