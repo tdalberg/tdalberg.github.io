@@ -10,6 +10,12 @@ permalink: /writings/
 
 ---
 
+## <img src="https://tdalberg.github.io/files/hourglass-start-solid-full.svg" height="24"> forthcoming
+
+**Tobias Dalberg**: "Careers beyond the university. Institutional Landscape and Activities of Humanities and Social Science Scholars in Sweden, 1900--1950" in TBA, Leiden: Brill.
+
+**Tobias Dalberg** & Mikael Börjesson: "Correspondence Analysis in Educational Research" in TBA, Springer Nature.
+
 ## <img src="https://tdalberg.github.io/files/book.svg" height="24"> dissertation
 **Tobias Dalberg**: _Mot lärdomens topp: Svenska humanisters och samhällsvetares ursprung, utbildning och yrkesbana under 1900-talets första hälft_ [Reaching the Pinnacle of Scholarship: Social, Educational and Professional Trajectories in the Humanities and Social Sciences in Sweden during the First Half of the 20th century]. Uppsala: Acta Universitatis Upsaliensis, 2018, 313 p.  
 Download: [Abstract](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-346824) and [fulltext](http://uu.diva-portal.org/smash/get/diva2:1195252/FULLTEXT01.pdf)  
@@ -83,3 +89,7 @@ Donald Broady, Mikael Börjesson, **Tobias Dalberg**, Josefine Krigh & Ida Lideg
 **Tobias Dalberg**: "Histoire des sciences", review of Yves Gingras' *Histoire des sciences* (2018), *Lychnos: Årsbok för idé- och lärdomshistoria*, 2020, p. 352-354.
 
 **Tobias Dalberg**: "En aktion mot passivformer - Michael Billig om samhällsvetenskaplig prosa", review of Michael Billig's _Learn to Write Badly. How to Succeed in the Social Sciences_ (2013), _Praktiske Grunde_, No 3-4, 2014, p. 71-74.
+
+## <img src="https://tdalberg.github.io/files/file-pen-solid-full.svg" height="24"> work in progress
+
+**Tobias Dalberg**: "Selection practices and the making of fundable scholars 1947--1977", chapter.
