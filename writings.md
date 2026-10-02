@@ -92,4 +92,6 @@ Donald Broady, Mikael Börjesson, **Tobias Dalberg**, Josefine Krigh & Ida Lideg
 
 ## <img src="https://tdalberg.github.io/files/file-pen-solid-full.svg" height="24"> work in progress
 
-**Tobias Dalberg**: "Selection practices and the making of fundable scholars 1947--1977", chapter.
+**Tobias Dalberg**: "Selection Practices and the Making of Fundable Scholars 1947--1977", chapter.
+
+**Tobias Dalberg**: "The Organisation of Academic Careers: Labour Market Structures and Early Career Researchers in Sweden", chapter.
