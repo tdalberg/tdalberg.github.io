@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Musiksmak del I"
+date: 2026-10-12 14:30:00 +0100
+tags: [R]
+---
+
+I min tjänst har jag något som heter K-tid. Det är en förkortning för tid för kompetensutveckling och i mitt fall rör det sig om lite drygt två veckors arbetstid per termin då jag kan försöka hinna med all den forskning som inte finansieras av externa finansiärer. 
+
+För närvarande arbetar jag med ett par idéer i kultursociologisk riktning med fokus på musik utifrån ett par olika infallsvinklar. En sådan vinkel rör förhållandet mellan alstring av kulturellt kapital och det vi ofta kallar klassisk musik.<sup>1</sup> 
+
+I många enkäter brukar man oavsett om det gäller kulturvanor eller indikatorer på kulturellt kapital ställa frågor om klassisk musik, och det brukar faktiskt sällan vara mer än så: vilken av följande genrer brukar du lyssna på? Ett problem med detta är att skillnader i smak sällan går att avgöra med frågor om genrer, för vem vill inte reflexmässigt säga att man är en musikalisk allätare? Detta är särskilt problematiskt när man undersöker mer avancerad smak, eftersom det sällan räcker ens med att säga att man inom rock lyssnar på ett visst band utan en viss period i detta bands historia eller vissa utvalda inspelningar. Detsamma gäller såklart även den som lyssnar på "klassisk musik", även om det kanske finns fler variabler som kan variera (kompositörer, orkestrar, dirigenter, solister, körer, ...).
+
+Jag ska illustrera detta i en serie inlägg om tidskriften Gramophones lista över de 250 bästa inspelningarna av klassisk musik där det blir tydligt att det finns en kärna av inte bara kompositörer utan även orkestrar och dirigenter med mera. Listan sattes ihop av en 37 huvuden stor jury bestående av ledande musiker och dirigenter.<sup>2</sup> Det rör sig alltså inte nödvändigtvis om bästsäljare eller inspelningar som kritikerna hyllar, utan musikernas favoritinspelningar. Detta är lite av en genväg för att i fältanalytiska termer komma åt de positioner som åtnjuter mest anseende inom relativt autonoma kulturella produktionsfält (författarnas författare, forskarnas forskare, lärarnas lärare, och så vidare).
+
+Inspelningarna rymmer i de flesta fall en mängd centrala kategorier: kompositör, dirigent, ensemble, orkester, kör, arr., musiker, sångare, berättare. Genom inspelningarna, eller skivorna, knyts olika kompositörer, orkestrar, dirigenter och så vidare samman i ett nätverk av relationer som uppstår på grund av att man förekommer på samma inspelning.<sup>3</sup> Rent tekniskt är detta ett nätverk med noder av två slag: skivor och musiker. För att renodla framställningen har jag projicerat detta på ett renodlat musikernätverk där exempelvis två kompositörer kan ha en direktförbindelse om de förekommer på samma inspelning.
+
+Figur 1. Den största sammanhängande komponenten i nätverket av kompositörer och utövare bland de 250 bästa klassiska inspelningarna. Nodstorleken visar antal inspelningar och färgerna representerar olika musikerkategorier.
+
+![](https://tdalberg.github.io/files/gramophone_network.png)
+
+Kompositörerna i denna största sammanhängande komponent är välkända och det kan konstateras att även om "klassiker" i någon mening är produkter av sociala omständigheter besitter deras musik ändå kvaliteter som fortsätter att erkännas av generation efter generation. I det här fallet är det också de bästa inspelningarna som står i fokus, inte bästa verket eller favoritkompositören. Det innebär att även om de 35 jurymedlemmarna helst lyssnar på mer obskyra verk till vardags så kan de ändå vara överens med sina likasinnade om att vissa inspelningar helt enkelt närmar sig perfektion i alla avseenden. Eller, som Anders Peedu från Gotlandsteatern under en föreställning på min högstadieskola beskrev Jussi Björlings och Robert Merrils inspelning av Pärlfiskarna: "det var en dag när allt stämde".
+
+Klassikernas kraft och beständighet vilar dock även på andra ben. Som [musikprofessorn Mattias Lundberg så elegant förklarat](https://www.sverigesradio.se/avsnitt/hur-jobbar-dirigenten) finns det något av en standardrepertoar som varje talangfull dirigent med ambition måste tröska igenom för att bevisa sin kompetens och bygga upp sin CV. Det är först därefter som man kan få den konstnärliga frihet som man kanske eftersträvar. Detta gör att den klassiska konsertvärlden i någon mening fungerar konserverande.
+
+___
+
+<sup>1</sup> För den som är intresserad finns en [väldigt intressant tråd på stackexchange](https://musicfans.stackexchange.com/questions/155/what-was-classical-music-called-back-in-the-days?stw=2) (det var där vi hängde innan stora språkmodeller tog över) om vad man kallade klassisk musik förr i tiden. Det vi vet med hyfsad säkerhet är dock att [vi började prata om klassisk musik i slutet av maj 1784](https://sverigesradio.se/play/avsnitt/782574), dvs 25 år efter att G.F. Händel hade dött.
+
+<sup>2</sup> **Julian Anderson** *composer*; **Marin Alsop** *conductor*; **Jean-Efflam Bavouzet** *pianist*; **Yefim Bronfman** *pianist*; **Iain Burnside** *pianist*; **Semyon Bychkov** *conductor*; **Sarah Chang** *violinist*; **Harry Christophers** *conductor*; **Natalie Clein** *cellist*; **Sarah Connolly** *mezzo-soprano*; **Imogen Cooper** *pianist*; **Joyce DiDonato** *mezzo-soprano*; **Julius Drake** *pianist*; **Thomas Dausgaard** *conductor*; **Alan Gilbert** *conductor*; **Hélène Grimaud** *pianist*; **Hilary Hahn** *violinist*; **Steven Isserlis** *cellist*; **Marc-André Hamelin** *pianist*; **Angela Hewitt** *pianist*; **Stephen Hough** *pianist*; **Alina Ibragimova** *violinist*; **Neeme Järvi** *conductor*; **Kirill Karabits** *conductor*; **Andrew Litton** *conductor*; **Anne Akiko Meyers** *violinist*; **Jonathan Nott** *conductor*; **Gianandrea Noseda** *conductor*; **Anne Sofie von Otter** *mezzo-soprano*; **Vasily Petrenko** *conductor*; **Peter Phillips** *conductor*; **Philippe Quint** *violinist*; **Stephen Rice** *conductor*; **Yevgeny Sudbin** *pianist*; **Mark Wigglesworth** *conductor*; **Elizabeth Watts** *soprano*; **David Zinman** *conductor*. Hämtad från [www.gramophone.co.uk](https://www.gramophone.co.uk/content/features/250-greatest-recordings-of-all-time-chosen-by-35-of-the-worlds-leading-musicians) (oktober 2026).
+
+<sup>3</sup> Datamaterialet bygger på Gramophones förteckning över 250 klassiska inspelningar. OpenAI ChatGPT (GPT-6, oktober 2026) har använts som stöd för att sammanställa och strukturera uppgifter om kompositörer och medverkande utifrån det ursprungliga materialet, samt för namnnormalisering och kategorisering. Nätverksanalysen och visualiseringen har genomförts i R med hjälp av `tidygraph` och `ggraph`.
+
+{% for tag in page.tags %} {{ tag }} {% endfor %}
