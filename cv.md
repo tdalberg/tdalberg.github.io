@@ -47,4 +47,4 @@ permalink: /cv/
 
 ## <img src="https://tdalberg.github.io/files/comments.svg" height="24"> peer review
 
-- Studentlitteratur; Palgrave Macmillan; *Paedagogica Historica*; *Sociologisk Forskning*; *Sociology of Education*; *AERA Open*.
+- Studentlitteratur; Palgrave Macmillan; *History of Intellectual Culture*; *Paedagogica Historica*; *Sociologisk Forskning*; *Sociology of Education*; *AERA Open*.
